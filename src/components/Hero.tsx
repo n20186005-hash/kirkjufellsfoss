@@ -9,8 +9,8 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src={t('bgImage') || "/gallery/saint-naum-monastery-01.jpg"}
-          alt={locale === 'zh' ? '圣诺姆修道院' : 'St. Naum Monastery'}
+          src={t('bgImage')}
+          alt={locale === 'zh' ? 'Kirkjufellsfoss' : 'Kirkjufellsfoss'}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -43,7 +43,7 @@ export default function Hero() {
               <span className="text-white text-sm">{t('hours')}</span>
             </div>
             <a
-              href="https://maps.app.goo.gl/b1AbhMTMrkztvPqg9"
+              href={t('openMapsUrl') || "https://maps.app.goo.gl/B33GJoUkHTGiGqwP8"}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
