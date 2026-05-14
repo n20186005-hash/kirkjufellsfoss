@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "title": "Kirkjufellsfoss｜Photographic Hotspot with Iconic Waterfall & Distinctly Shaped Mountain - Iceland",
+    "description": "Complete guide to Kirkjufellsfoss in Grundarfjörður, Iceland. Learn about the iconic waterfall, panoramic views, photography tips, and visitor information."
+  },
+  "hero": {
+    "title": "Kirkjufellsfoss",
+    "subtitle": "Photographic Hotspot with Iconic Waterfall & Distinctly Shaped Mountain, Iceland",
+    "rating": "4.6(7,037)",
+    "reviewCount": "7,037 real reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "View Location",
+    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
+  },
+  "intro": {
+    "aboutTitle": "About Kirkjufellsfoss",
+    "aboutText": "Kirkjufellsfoss is one of Iceland's most photographed waterfalls, located near the iconic Kirkjufell mountain in Grundarfjörður, Snæfellsnes Peninsula.",
+    "title": "Discover Iceland's Most Photogenic Waterfall",
+    "description": "Kirkjufellsfoss is a small but mighty waterfall that has become one of Iceland's most iconic photographic spots. With Kirkjufell mountain rising dramatically in the background, this location offers breathtaking panoramic views.\n\nThe waterfall consists of multiple cascades, and there's a walking path that allows you to view it from different angles. Whether you visit during the bright summer midnight sun or the northern lights season in winter, Kirkjufellsfoss never fails to impress.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best photography light is during sunrise or sunset",
+        "The walking path around the waterfall is easy and suitable for all ages",
+        "Visit in summer for midnight sun or winter for northern lights",
+        "Multiple viewing angles available from the designated paths"
+      ]
+    },
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "One of the most photographed locations in Iceland",
+        "Iconic Kirkjufell mountain as the backdrop",
+        "Multiple waterfall cascades with walking paths",
+        "Perfect for northern lights photography in winter"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Church Mountain Waterfall",
+        "Kirkjufell Waterfall",
+        "Snæfellsnes Peninsula Icon"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Kirkjufellsfoss",
+    "type": "Attraction Type",
+    "typeValue": "Waterfall, Natural Landmark, Photography Spot, Hiking Area",
+    "country": "Country",
+    "countryValue": "Iceland",
+    "city": "City / Location",
+    "cityValue": "Grundarfjörður, Snæfellsnes Peninsula",
+    "googleRating": "Google Rating",
+    "ratingValue": "4.6 (7,037 real reviews)",
+    "phone": "Phone",
+    "phoneValue": "N/A (Natural Site)",
+    "address": "Address",
+    "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "fortress": "Site Access",
+    "fortressDesc": "The waterfall and surrounding area are accessible 24 hours a day, year-round. No entrance fee required.",
+    "fortressTime": "24 Hours",
+    "tip": "Best visited during daylight hours for safety. Summer offers midnight sun viewing opportunities."
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "fortress": "Site Access",
+    "free": "Free Admission",
+    "fortressDesc": "Kirkjufellsfoss is a natural site with free public access. No tickets required.",
+    "parking": "Parking",
+    "parkingDesc": "Free parking available near the site. Can get crowded during peak season.",
+    "parkingPrice": "Free"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "walking": {
+      "title": "By Car",
+      "badge": "Recommended",
+      "desc": "From Reykjavik"
+    }
+  },
+  "knowledge": {
+    "title": "History",
+    "sections": [
+      {
+        "title": "Geology",
+        "content": "Kirkjufell mountain"
+      }
+    ]
+  },
+  "route": {
+    "title": "Route",
+    "overview": "Visit info",
+    "steps": [
+      "Step 1"
+    ],
+    "tips": {
+      "title": "Tips",
+      "items": [
+        "Tip 1"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Spot 1",
+        "desc": "Desc 1"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Hotels",
+    "hotels": [
+      {
+        "name": "Hotel",
+        "desc": "Desc",
+        "price": "€100"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "photos": [
+      {
+        "src": "/gallery/Kirkjufellsfoss (1).jpg",
+        "alt": "Image"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Reviews",
+    "items": [
+      {
+        "name": "User",
+        "rating": 5,
+        "text": "Great"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map",
+    "openMaps": "View",
+    "openMapsUrl": "https://maps.app.goo.gl/B33GJoUkHTGiGqwP8"
+  },
+  "footer": {
+    "logo": "Kirkjufellsfoss",
+    "rights": "© 2026"
+  },
+  "header": {
+    "home": "Home"
+  }
+}

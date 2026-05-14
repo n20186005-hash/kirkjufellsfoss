@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Kirkjufellsfoss｜冰岛标志性瀑布与独特山景的摄影胜地",
+    "description": "冰岛 Grundarfjörður Kirkjufellsfoss 完整指南。了解标志性瀑布、全景视角、摄影技巧和游客信息。"
+  },
+  "hero": {
+    "title": "Kirkjufellsfoss",
+    "subtitle": "冰岛标志性瀑布与独特山景的摄影胜地",
+    "rating": "4.6(7,037)",
+    "reviewCount": "7,037 条真实评价",
+    "hours": "全天 24 小时开放",
+    "openMaps": "查看位置",
+    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
+  },
+  "intro": {
+    "aboutTitle": "关于 Kirkjufellsfoss",
+    "aboutText": "Kirkjufellsfoss 是冰岛被拍摄最多的瀑布之一，位于斯奈山半岛 Grundarfjörður 附近的标志性 Kirkjufell 山旁。",
+    "title": "探索冰岛最具摄影价值的瀑布",
+    "description": "Kirkjufellsfoss 是一个小而震撼的瀑布，已成为冰岛最具标志性的摄影地点之一。Kirkjufell 山在背景中戏剧性地拔地而起，提供了令人惊叹的全景视角。\n\n瀑布由多个级联组成，有一条步行小径可以让你从不同角度观赏。无论你是在明亮的夏季午夜阳光还是冬季的北极光季节来访，Kirkjufellsfoss 都不会让你失望。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳摄影光线是日出或日落时分",
+        "瀑布周围的步行小径轻松易行，适合所有年龄段",
+        "夏季可体验午夜阳光，冬季可观赏北极光",
+        "指定小径提供多个观赏角度"
+      ]
+    },
+    "highlights": {
+      "title": "景区特色",
+      "items": [
+        "冰岛被拍摄最多的地点之一",
+        "标志性的 Kirkjufell 山作为背景",
+        "多级瀑布级联与步行小径",
+        "冬季拍摄北极光的绝佳地点"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "别名",
+      "items": [
+        "教堂山瀑布",
+        "Kirkjufell 瀑布",
+        "斯奈山半岛标志"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Kirkjufellsfoss",
+    "type": "景点类型",
+    "typeValue": "瀑布、自然地标、摄影胜地、徒步区",
+    "country": "国家",
+    "countryValue": "冰岛（Iceland）",
+    "city": "城市 / 位置",
+    "cityValue": "Grundarfjörður，斯奈山半岛",
+    "googleRating": "谷歌评分",
+    "ratingValue": "4.6 (7,037 条真实评价)",
+    "phone": "联系电话",
+    "phoneValue": "无（自然景点）",
+    "address": "地址",
+    "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
+  },
+  "hours": {
+    "title": "开放时间",
+    "fortress": "景区开放",
+    "fortressDesc": "瀑布及周边区域全年全天 24 小时可进入。无需门票。",
+    "fortressTime": "24 小时",
+    "tip": "建议白天参观以确保安全。夏季提供午夜阳光观赏机会。"
+  },
+  "tickets": {
+    "title": "门票价格",
+    "fortress": "景区进入",
+    "free": "免费开放",
+    "fortressDesc": "Kirkjufellsfoss 是自然景点，公众可免费进入。无需购票。",
+    "parking": "停车",
+    "parkingDesc": "景区附近有免费停车场。旺季可能会车位紧张。",
+    "parkingPrice": "免费"
+  },
+  "transport": {
+    "title": "交通方式"
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "参观信息",
+    "steps": [
+      "步骤1"
+    ],
+    "tips": {
+      "title": "贴士",
+      "items": [
+        "贴士1"
+      ]
+    }
+  },
+  "photoSpots": {
+    "title": "拍照机位",
+    "spots": [
+      {
+        "name": "机位1",
+        "desc": "描述1"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿",
+    "hotels": [
+      {
+        "name": "酒店",
+        "desc": "描述",
+        "price": "€100"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "图集",
+    "photos": [
+      {
+        "src": "/gallery/Kirkjufellsfoss (1).jpg",
+        "alt": "图片"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "评价",
+    "items": [
+      {
+        "name": "用户",
+        "rating": 5,
+        "text": "很好"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图",
+    "openMaps": "查看",
+    "openMapsUrl": "https://maps.app.goo.gl/B33GJoUkHTGiGqwP8"
+  },
+  "footer": {
+    "logo": "Kirkjufellsfoss",
+    "rights": "© 2026"
+  },
+  "header": {
+    "home": "首页"
+  }
+}
