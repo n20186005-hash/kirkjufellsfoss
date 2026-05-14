@@ -6,8 +6,8 @@
   "hero": {
     "title": "Kirkjufellsfoss",
     "subtitle": "冰岛标志性瀑布与独特山景的摄影胜地",
-    "rating": "4.6(7,037)",
-    "reviewCount": "7,037 条真实评价",
+    "rating": "4.6(13,430)",
+    "reviewCount": "13,430 条真实评价",
     "hours": "全天 24 小时开放",
     "openMaps": "查看位置",
     "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
@@ -56,9 +56,9 @@
     "city": "城市 / 位置",
     "cityValue": "Grundarfjörður，斯奈山半岛",
     "googleRating": "谷歌评分",
-    "ratingValue": "4.6 (7,037 条真实评价)",
+    "ratingValue": "4.6 (13,430 条真实评价)",
     "phone": "联系电话",
-    "phoneValue": "无（自然景点）",
+    "phoneValue": "+354 438 6808 (Grundarfjörður 游客中心)",
     "address": "地址",
     "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
   },
@@ -71,12 +71,23 @@
   },
   "tickets": {
     "title": "门票价格",
-    "fortress": "景区进入",
+    "fortress": "瀑布景区与步道",
     "free": "免费开放",
-    "fortressDesc": "Kirkjufellsfoss 是自然景点，公众可免费进入。无需购票。",
-    "parking": "停车",
-    "parkingDesc": "景区附近有免费停车场。旺季可能会车位紧张。",
-    "parkingPrice": "免费"
+    "fortressDesc": "Kirkjufellsfoss 瀑布景区、观景台及周边步道全天 24 小时免费向公众开放，无需购买任何门票。",
+    "parking": "停车场收费 (自2023年起)",
+    "parkingDesc": "虽然景点免费，但使用瀑布旁的官方停车场需要支付停车费（用于场地维护）。",
+    "parkingPrice": "1000 ISK / 次",
+    "garden": "摄影机位",
+    "gardenPrice": "免费",
+    "rosenborg": "商业拍摄许可",
+    "adults": "普通游客",
+    "adultsPrice": "免费",
+    "students": "学生",
+    "studentsPrice": "免费",
+    "under17": "儿童",
+    "under17Price": "免费",
+    "card": "无人机航拍",
+    "cardPrice": "需遵守当地限飞规定"
   },
   "transport": {
     "title": "交通方式",
@@ -114,7 +125,8 @@
       "下层瀑布：首先映入眼帘的是下层瀑布，可以在桥上或水边拍摄",
       "沿着小径向上：沿着维护良好的小径向山坡上走",
       "经典机位：到达上层瀑布旁的观景台，这里是将瀑布作为前景、教会山作为背景的最佳拍摄点",
-      "过桥：穿过瀑布上方的小桥，从另一侧欣赏不同光线下的景色"
+      "过桥：穿过瀑布上方的小桥，从另一侧欣赏不同光线下的景色",
+      "探索周边：拍摄结束后，可以驾车前往仅需3分钟车程的 Grundarfjörður 小镇享用冰岛美食"
     ],
     "tips": {
       "title": "游览贴士",
@@ -300,7 +312,7 @@
   "mapSection": {
     "title": "地图",
     "openMaps": "查看",
-    "openMapsUrl": "https://maps.app.goo.gl/B33GJoUkHTGiGqwP8",
+    "openMapsUrl": "https://maps.app.goo.gl/Udg4tj8Qj2YhasFD7",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
   },
   "footer": {
@@ -338,5 +350,82 @@
         "content": "这座山因其形状类似教堂的屋顶而得名。在现代流行文化中，它最著名的身份是HBO热门剧集《权力的游戏》中的箭头山，这使得它在全球范围内的知名度呈指数级上升。"
       }
     ]
+  },
+  "officialManagement": {
+    "title": "关于 Kirkjufellsfoss",
+    "text": "Kirkjufellsfoss 位于冰岛斯奈山半岛的 Grundarfjörður 附近，是冰岛最具代表性的自然景观之一。它与背后的 Kirkjufell（教会山/草帽山）共同构成了冰岛被拍摄最多的标志性画面。该区域由冰岛环境署与当地市镇共同进行生态保护与旅游管理。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：\n\n• 浏览数据（IP 地址、浏览器类型、访问页面）\n• Cookie 和类似技术\n• 您通过联系表格或电子邮件自愿提供的任何信息"
+      },
+      {
+        "heading": "我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：\n\n• 改善网站内容和用户体验\n• 分析流量和使用模式\n• 回应请求\n• 遵守我们的法律义务"
+      },
+      {
+        "heading": "第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：\n\n• 访问您的个人数据\n• 要求更正或删除\n• 反对治疗\n• 向监管机构提出投诉"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年5月",
+    "sections": [
+      {
+        "heading": "访问和使用",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年5月。我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "alwaysActive": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。"
+    },
+    "preferences": {
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。保存您的语言偏好和网站设置。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。它可以根据你的兴趣为你展示相关的广告。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "save": "保存偏好设置",
+    "rejectAll": "拒绝一切",
+    "saved": "设置已保存！"
   }
 }

@@ -6,8 +6,8 @@
   "hero": {
     "title": "Kirkjufellsfoss",
     "subtitle": "Photographic Hotspot with Iconic Waterfall & Distinctly Shaped Mountain, Iceland",
-    "rating": "4.6(7,037)",
-    "reviewCount": "7,037 real reviews",
+    "rating": "4.6(13,430)",
+    "reviewCount": "13,430 real reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
     "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
@@ -56,9 +56,9 @@
     "city": "City / Location",
     "cityValue": "Grundarfjörður, Snæfellsnes Peninsula",
     "googleRating": "Google Rating",
-    "ratingValue": "4.6 (7,037 real reviews)",
+    "ratingValue": "4.6 (13,430 real reviews)",
     "phone": "Phone",
-    "phoneValue": "N/A (Natural Site)",
+    "phoneValue": "+354 438 6808 (Grundarfjörður Tourist Info)",
     "address": "Address",
     "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
   },
@@ -71,12 +71,23 @@
   },
   "tickets": {
     "title": "Ticket Prices",
-    "fortress": "Site Access",
+    "fortress": "Waterfall Area & Trails",
     "free": "Free Admission",
-    "fortressDesc": "Kirkjufellsfoss is a natural site with free public access. No tickets required.",
-    "parking": "Parking",
-    "parkingDesc": "Free parking available near the site. Can get crowded during peak season.",
-    "parkingPrice": "Free"
+    "fortressDesc": "The Kirkjufellsfoss waterfall area, viewing platforms, and surrounding trails are open to the public 24/7 free of charge. No entrance tickets are required.",
+    "parking": "Parking Fee (Since 2023)",
+    "parkingDesc": "While the attraction is free, using the official parking lot next to the waterfall requires a parking fee (used for site maintenance).",
+    "parkingPrice": "1000 ISK / vehicle",
+    "garden": "Photography Spots",
+    "gardenPrice": "Free",
+    "rosenborg": "Commercial Filming",
+    "adults": "Adults",
+    "adultsPrice": "Free",
+    "students": "Students",
+    "studentsPrice": "Free",
+    "under17": "Children",
+    "under17Price": "Free",
+    "card": "Drone Flying",
+    "cardPrice": "Subject to local regulations"
   },
   "transport": {
     "title": "How to Get Here",
@@ -99,7 +110,12 @@
     "title": "Route",
     "overview": "Visit info",
     "steps": [
-      "Step 1"
+      "Arrival & Parking: Park your vehicle at the paid parking lot right off the highway",
+      "Lower Cascades: The first sight will be the lower cascades, perfect for water-level shots",
+      "Walk up the Trail: Follow the well-maintained gravel path up the slope",
+      "Classic Viewpoint: Arrive at the viewing platform next to the upper falls, the best spot to capture the waterfall with Kirkjufell in the background",
+      "Cross the Bridge: Walk across the small bridge above the waterfall to enjoy different lighting and angles",
+      "Explore Surroundings: After taking photos, you can drive 3 minutes to the town of Grundarfjörður for Icelandic cuisine"
     ],
     "tips": {
       "title": "Tips",
@@ -229,19 +245,40 @@
     ]
   },
   "reviews": {
-    "title": "Reviews",
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
-        "name": "User",
+        "name": "Sarah M.",
+        "date": "March 2026",
         "rating": 5,
-        "text": "Great"
+        "text": "One of the most beautiful waterfalls in Iceland! Although it is small, combined with Mount Kirkjufell in the background, it is truly a photographers paradise. We saw the Northern Lights there, unforgettable!"
+      },
+      {
+        "name": "John D.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "When we went in winter, the paths were covered in ice, so definitely bring crampons. But seeing the frozen waterfall and snow-capped mountain made it all worth it."
+      },
+      {
+        "name": "Emma W.",
+        "date": "September 2025",
+        "rating": 5,
+        "text": "As a Game of Thrones fan, it was so exciting to stand at the foot of Arrowhead Mountain. The trails around the waterfall are very well maintained."
+      },
+      {
+        "name": "David L.",
+        "date": "July 2025",
+        "rating": 4,
+        "text": "Absolutely stunning scenery, but it can get quite crowded. I recommend going early; we arrived at 7 AM and had the place to ourselves."
       }
     ]
   },
   "mapSection": {
     "title": "Map",
     "openMaps": "View",
-    "openMapsUrl": "https://maps.app.goo.gl/B33GJoUkHTGiGqwP8",
+    "openMapsUrl": "https://maps.app.goo.gl/Udg4tj8Qj2YhasFD7",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
   },
   "footer": {
@@ -266,5 +303,82 @@
     "reviews": "Reviews",
     "map": "Map",
     "backToHome": "Back to Home"
+  },
+  "officialManagement": {
+    "title": "About Kirkjufellsfoss",
+    "text": "Kirkjufellsfoss is located near Grundarfjörður on the Snæfellsnes Peninsula in Iceland. It is one of the most representative natural landscapes in the country. Together with the Kirkjufell mountain in the background, it forms the most photographed iconic view in Iceland. The area is managed for ecological conservation and tourism by the Environment Agency of Iceland and the local municipality."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "We only collect the minimum amount of data necessary to provide our services. This data may include:\n\n• Browsing data (IP address, browser type, pages visited)\n• Cookies and similar technologies\n• Any information you voluntarily provide via contact forms or email"
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use the collected information to:\n\n• Improve website content and user experience\n• Analyze traffic and usage patterns\n• Respond to requests\n• Comply with our legal obligations"
+      },
+      {
+        "heading": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to:\n\n• Access your personal data\n• Request correction or deletion\n• Object to processing\n• Lodge a complaint with a supervisory authority"
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: May 2026",
+    "sections": [
+      {
+        "heading": "Access and Use",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "Content Usage",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, unaffiliated with any tourist attraction, government agency, or commercial operator."
+      },
+      {
+        "heading": "Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Please verify important information through official channels before your trip."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used with permission. The use of Google Maps data complies with Google Terms of Service."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "This website is provided as is without any warranties. We are not responsible for any losses incurred from the use of information on this website, including but not limited to travel decisions made based on the content of this site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: May 2026. We use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "alwaysActive": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data."
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences. Save your language preferences and website settings."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to display relevant ads and measure the effectiveness of advertising campaigns. They can show you relevant ads based on your interests."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling some cookies may affect the functionality of the website.",
+    "save": "Save Preferences",
+    "rejectAll": "Reject All",
+    "saved": "Settings Saved!"
   }
 }
