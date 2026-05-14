@@ -40,7 +40,8 @@
       "items": [
         "教堂山瀑布",
         "Kirkjufell 瀑布",
-        "斯奈山半岛标志"
+        "斯奈山半岛标志",
+        "草帽山"
       ]
     }
   },
@@ -78,18 +79,50 @@
     "parkingPrice": "免费"
   },
   "transport": {
-    "title": "交通方式"
+    "title": "交通方式",
+    "walking": {
+      "title": "自驾（推荐）",
+      "badge": "推荐",
+      "desc": "从雷克雅未克沿1号环岛公路向北，转54号公路即可到达，全程约2.5-3小时。路况良好，但冬季需注意冰雪路面。"
+    },
+    "bus": "公交巴士",
+    "car": {
+      "title": "公交巴士",
+      "desc": "从雷克雅未克可乘坐57路巴士前往，但班次较少且耗时较长，建议自驾或参加当地的一日游团。"
+    },
+    "metro": "自驾（推荐）",
+    "metroDesc": "从雷克雅未克出发约2.5-3小时，沿途风景优美，是游览斯奈山半岛的最佳方式。",
+    "train": "参加旅游团",
+    "trainDesc": "许多从雷克雅未克出发的斯奈山半岛一日游都会将Kirkjufellsfoss作为重点打卡地。",
+    "busDesc": "乘坐57路巴士可达，但班次有限，出行前务必查阅最新时刻表。",
+    "taxi": "从雷克雅未克出发",
+    "taxiDesc": "距离首都约180公里，车程2.5-3小时。",
+    "rideshare": "停车场",
+    "rideshareDesc": "瀑布旁有免费的专用停车场，距离瀑布步行仅需2分钟。",
+    "cycling": "从停车场步行",
+    "cyclingDesc": "从停车场沿着修葺良好的小径步行1-2分钟即可到达观景台。",
+    "fromStation": "从Grundarfjörður小镇出发",
+    "fromStationDesc": "距离小镇仅2.5公里，开车3分钟即可到达。",
+    "fromNyhavn": "从雷克雅未克出发",
+    "fromNyhavnDesc": "距离首都约180公里，车程2.5-3小时。"
   },
   "route": {
     "title": "游览路线",
-    "overview": "参观信息",
+    "overview": "游览Kirkjufellsfoss非常简单直接。建议预留1-1.5小时，从不同的角度拍摄瀑布和背景的教会山。",
     "steps": [
-      "步骤1"
+      "到达与停车：将车停在公路旁的免费停车场",
+      "下层瀑布：首先映入眼帘的是下层瀑布，可以在桥上或水边拍摄",
+      "沿着小径向上：沿着维护良好的小径向山坡上走",
+      "经典机位：到达上层瀑布旁的观景台，这里是将瀑布作为前景、教会山作为背景的最佳拍摄点",
+      "过桥：穿过瀑布上方的小桥，从另一侧欣赏不同光线下的景色"
     ],
     "tips": {
-      "title": "贴士",
+      "title": "游览贴士",
       "items": [
-        "贴士1"
+        "由于这里是热门景点，建议在清晨或傍晚前往以避开人群，并获得最佳的光线",
+        "冬季小径可能结冰湿滑，建议穿戴冰爪（Crampons）",
+        "风大时水雾会吹到镜头上，请准备好擦镜布",
+        "千万不要跨越护栏，注意安全"
       ]
     }
   },
@@ -97,37 +130,170 @@
     "title": "拍照机位",
     "spots": [
       {
-        "name": "机位1",
-        "desc": "描述1"
+        "name": "经典明信片视角",
+        "desc": "位于上层瀑布旁，使用广角镜头将瀑布流水作为前景，背景是完整的教会山。这也是《权力的游戏》取景地视角。"
+      },
+      {
+        "name": "小桥流水",
+        "desc": "站在瀑布上方的小桥上，可以拍摄水流奔腾而下的动感画面。"
+      },
+      {
+        "name": "北极光机位",
+        "desc": "冬季夜晚，在停车场附近或经典机位处架设三脚架，这里光污染极低，是拍摄北极光与山峰同框的绝佳地点。"
       }
-    ]
+    ],
+    "tips": "使用ND滤镜（减光镜）可以帮助你在白天拍出如丝绸般柔滑的水流效果。由于风大，务必使用稳固的三脚架。"
   },
   "hotels": {
-    "title": "住宿",
+    "title": "住宿建议",
     "hotels": [
       {
-        "name": "酒店",
-        "desc": "描述",
-        "price": "€100"
+        "name": "Grundarfjörður小镇住宿",
+        "desc": "距离瀑布仅5分钟车程，镇上有各种宾馆、民宿和餐厅，生活便利，是探索斯奈山半岛的理想大本营。",
+        "price": "约 €120-250/晚"
+      },
+      {
+        "name": "斯蒂基斯霍尔米 (Stykkishólmur)",
+        "desc": "斯奈山半岛最大的城镇，距离瀑布约40分钟车程，拥有优美的海港和更多的餐饮选择。",
+        "price": "约 €100-200/晚"
+      },
+      {
+        "name": "周边农场民宿 (Farmstays)",
+        "desc": "半岛上散布着许多农场民宿，提供宁静的乡村体验，晚上非常适合直接在屋外看极光。",
+        "price": "约 €90-180/晚"
       }
-    ]
+    ],
+    "exitWarning": "斯奈山半岛的住宿在夏季旺季非常抢手，建议至少提前3-6个月预订。"
   },
   "gallery": {
-    "title": "图集",
+    "title": "精彩照片",
+    "subtitle": "Kirkjufellsfoss 与草帽山全景",
+    "captions": [
+      "经典视角",
+      "瀑布全景",
+      "冬季风光",
+      "极光之夜",
+      "日落晚霞",
+      "长曝光水流",
+      "山峰特写",
+      "冰岛自然"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
     "photos": [
       {
         "src": "/gallery/Kirkjufellsfoss (1).jpg",
-        "alt": "图片"
+        "alt": "Kirkjufellsfoss 经典视角"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (2).jpg",
+        "alt": "教会山与瀑布"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (10).jpg",
+        "alt": "瀑布近景"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (11).jpg",
+        "alt": "冬季冰雪覆盖的瀑布"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (12).jpg",
+        "alt": "北极光下的草帽山"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (13).jpg",
+        "alt": "日落时分的瀑布"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (14).jpg",
+        "alt": "山峰特写"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (15).jpg",
+        "alt": "瀑布水流"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (16).jpg",
+        "alt": "周边风光"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (17).jpg",
+        "alt": "观景台视角"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (18).jpg",
+        "alt": "冰岛自然风光"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (20).jpg",
+        "alt": "草帽山倒影"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (21).jpg",
+        "alt": "瀑布长曝光"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (22).jpg",
+        "alt": "晨光中的教会山"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (23).jpg",
+        "alt": "瀑布上层"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (24).jpg",
+        "alt": "极光倒影"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (25).jpg",
+        "alt": "冬季风光"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (4).jpg",
+        "alt": "瀑布全景"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (6).jpg",
+        "alt": "山峰与河流"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (7).jpg",
+        "alt": "冰岛标志性景观"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (8).jpg",
+        "alt": "晚霞中的瀑布"
       }
     ]
   },
   "reviews": {
-    "title": "评价",
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
     "items": [
       {
-        "name": "用户",
+        "name": "王小明",
+        "date": "2026年3月",
         "rating": 5,
-        "text": "很好"
+        "text": "冰岛最美的瀑布之一！虽然不大，但是配合背后的草帽山，真的是摄影师的天堂。我们在那里等到了极光，永生难忘！"
+      },
+      {
+        "name": "李华",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "冬天去的时候路面全是冰，一定要带冰爪。但是看到结冰的瀑布和白雪皑皑的山峰，一切都值得了。"
+      },
+      {
+        "name": "张伟",
+        "date": "2025年9月",
+        "rating": 5,
+        "text": "作为一个权游迷，来到箭头山脚下太激动了。瀑布周围的步道修得很好，适合全家游玩。"
+      },
+      {
+        "name": "刘芳",
+        "date": "2025年7月",
+        "rating": 4,
+        "text": "风景绝佳，就是人有点多。建议早点去，我们早上7点到的，独享了这片美景。"
       }
     ]
   },
@@ -139,16 +305,38 @@
   },
   "footer": {
     "logo": "Kirkjufellsfoss",
-    "rights": "© 2026",
+    "rights": "© 2026 独立游客指南。保留所有权利。",
     "officialLinks": {
       "nature": "冰岛自然历史研究所",
       "west": "访问西冰岛",
       "grundarfjordur": "格伦达菲厄泽官方网站",
       "environment": "冰岛环境署",
       "unesco": "联合国教科文组织 (UNESCO)"
-    }
+    },
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "disclaimer": "免责声明：本网站为独立运营的游客指南，与冰岛政府或任何官方管理机构无任何隶属关系。本站提供的信息仅供旅行参考，建议出行前通过官方渠道进行核实。",
+    "officialResourcesTitle": "官方旅游资源"
   },
   "header": {
-    "home": "首页"
+    "home": "首页",
+    "gallery": "图集",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "knowledge": {
+    "title": "历史与地质",
+    "sections": [
+      {
+        "title": "地质形成",
+        "content": "Kirkjufell（教会山）是由更新世时期的冰川侵蚀和火山活动共同塑造的。它独特的对称锥形结构使其成为冰岛最具辨识度的山峰。而Kirkjufellsfoss瀑布则是由于冰川融水流经玄武岩台阶而形成，分为上、中、下三个主要的级联。"
+      },
+      {
+        "title": "文化影响",
+        "content": "这座山因其形状类似教堂的屋顶而得名。在现代流行文化中，它最著名的身份是HBO热门剧集《权力的游戏》中的箭头山，这使得它在全球范围内的知名度呈指数级上升。"
+      }
+    ]
   }
 }

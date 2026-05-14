@@ -40,7 +40,8 @@
       "items": [
         "Church Mountain Waterfall",
         "Kirkjufell Waterfall",
-        "Snæfellsnes Peninsula Icon"
+        "Snæfellsnes Peninsula Icon",
+        "Straw Hat Mountain"
       ]
     }
   },
@@ -127,11 +128,103 @@
     ]
   },
   "gallery": {
-    "title": "Gallery",
+    "title": "Photo Gallery",
+    "subtitle": "Kirkjufellsfoss & Mount Kirkjufell Panorama",
+    "captions": [
+      "Classic View",
+      "Waterfall Panorama",
+      "Winter Landscape",
+      "Northern Lights",
+      "Sunset Glow",
+      "Long Exposure",
+      "Mountain Close-up",
+      "Icelandic Nature"
+    ],
+    "viewAll": "View on Google Maps",
     "photos": [
       {
         "src": "/gallery/Kirkjufellsfoss (1).jpg",
-        "alt": "Image"
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (2).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (10).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (11).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (12).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (13).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (14).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (15).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (16).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (17).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (18).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (20).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (21).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (22).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (23).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (24).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (25).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (4).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (6).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (7).jpg",
+        "alt": "Kirkjufellsfoss view"
+      },
+      {
+        "src": "/gallery/Kirkjufellsfoss (8).jpg",
+        "alt": "Kirkjufellsfoss view"
       }
     ]
   },
@@ -160,9 +253,18 @@
       "grundarfjordur": "Grundarfjarðarbær Official Website",
       "environment": "Environment Agency of Iceland",
       "unesco": "UNESCO"
-    }
+    },
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "disclaimer": "Disclaimer: This website is an independent visitor guide and is not affiliated with the Government of Iceland or any official management. Information provided is for travel reference only.",
+    "officialResourcesTitle": "Official Tourism Resources"
   },
   "header": {
-    "home": "Home"
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
   }
 }
