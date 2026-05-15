@@ -10,7 +10,8 @@
     "reviewCount": "13,430 real reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
-    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
+    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg",
+    "openMapsUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7"
   },
   "intro": {
     "aboutTitle": "About Kirkjufellsfoss",
@@ -57,8 +58,6 @@
     "cityValue": "Grundarfjörður, Snæfellsnes Peninsula",
     "googleRating": "Google Rating",
     "ratingValue": "4.6 (13,430 real reviews)",
-    "phone": "Phone",
-    "phoneValue": "+354 438 6808 (Grundarfjörður Tourist Info)",
     "address": "Address",
     "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
   },
@@ -67,7 +66,9 @@
     "fortress": "Site Access",
     "fortressDesc": "The waterfall and surrounding area are accessible 24 hours a day, year-round. No entrance fee required.",
     "fortressTime": "24 Hours",
-    "tip": "Best visited during daylight hours for safety. Summer offers midnight sun viewing opportunities."
+    "tip": "Best visited during daylight hours for safety. Summer offers midnight sun viewing opportunities.",
+    "rosenborg": "Open 24 hours, year-round",
+    "rosenborgTime": "00:00-24:00 (no closure)"
   },
   "tickets": {
     "title": "Ticket Prices",
@@ -77,17 +78,18 @@
     "parking": "Parking Fee (Since 2023)",
     "parkingDesc": "While the attraction is free, using the official parking lot next to the waterfall requires a parking fee (used for site maintenance).",
     "parkingPrice": "1000 ISK / vehicle",
-    "garden": "Photography Spots",
-    "gardenPrice": "Free",
-    "rosenborg": "Commercial Filming",
-    "adults": "Adults",
-    "adultsPrice": "Free",
-    "students": "Students",
-    "studentsPrice": "Free",
-    "under17": "Children",
-    "under17Price": "Free",
-    "card": "Drone Flying",
-    "cardPrice": "Subject to local regulations"
+    "garden": "Free admission (No ticket required)",
+    "gardenPrice": "0 ISK / 0 EUR",
+    "rosenborg": "Free admission",
+    "adults": "Adults: Free",
+    "adultsPrice": "0 ISK",
+    "students": "Students: Free",
+    "studentsPrice": "0 ISK",
+    "under17": "Under 17: Free",
+    "under17Price": "0 ISK",
+    "card": "No card / pass required",
+    "cardPrice": "N/A (No card)",
+    "note": "Note: The attraction is permanently free, open 24/7, with no entrance fees. The only cost is a parking fee of approx 1000 ISK per visit (optional, limited free parking nearby). There are no secondary charges."
   },
   "transport": {
     "title": "How to Get Here",
@@ -108,14 +110,14 @@
   },
   "route": {
     "title": "Route",
-    "overview": "Visit info",
+    "overview": "Visiting Kirkjufellsfoss is very straightforward. It is recommended to set aside 1-1.5 hours to photograph the waterfall and Kirkjufell mountain from different angles.",
     "steps": [
-      "Arrival & Parking: Park your vehicle at the paid parking lot right off the highway",
+      "Arrival & Parking: Park your vehicle at the free parking lot next to the highway",
       "Lower Cascades: The first sight will be the lower cascades, perfect for water-level shots",
       "Walk up the Trail: Follow the well-maintained gravel path up the slope",
       "Classic Viewpoint: Arrive at the viewing platform next to the upper falls, the best spot to capture the waterfall with Kirkjufell in the background",
       "Cross the Bridge: Walk across the small bridge above the waterfall to enjoy different lighting and angles",
-      "Explore Surroundings: After taking photos, you can drive 3 minutes to the town of Grundarfjörður for Icelandic cuisine"
+      "Return Descent: Walk back down the gentle path to the parking lot, pausing again to capture the changing light and shadows"
     ],
     "tips": {
       "title": "Tips",
@@ -242,7 +244,8 @@
         "src": "/gallery/Kirkjufellsfoss (8).jpg",
         "alt": "Kirkjufellsfoss view"
       }
-    ]
+    ],
+    "viewAllUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -278,8 +281,9 @@
   "mapSection": {
     "title": "Map",
     "openMaps": "View",
-    "openMapsUrl": "https://maps.app.goo.gl/Udg4tj8Qj2YhasFD7",
-    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    "openMapsUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus",
+    "subtitle": "View Kirkjufellsfoss location and driving directions"
   },
   "footer": {
     "logo": "Kirkjufellsfoss",

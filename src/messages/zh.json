@@ -10,7 +10,8 @@
     "reviewCount": "13,430 条真实评价",
     "hours": "全天 24 小时开放",
     "openMaps": "查看位置",
-    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg"
+    "bgImage": "/gallery/Kirkjufellsfoss (1).jpg",
+    "openMapsUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7"
   },
   "intro": {
     "aboutTitle": "关于 Kirkjufellsfoss",
@@ -57,8 +58,6 @@
     "cityValue": "Grundarfjörður，斯奈山半岛",
     "googleRating": "谷歌评分",
     "ratingValue": "4.6 (13,430 条真实评价)",
-    "phone": "联系电话",
-    "phoneValue": "+354 438 6808 (Grundarfjörður 游客中心)",
     "address": "地址",
     "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
   },
@@ -67,7 +66,9 @@
     "fortress": "景区开放",
     "fortressDesc": "瀑布及周边区域全年全天 24 小时可进入。无需门票。",
     "fortressTime": "24 小时",
-    "tip": "建议白天参观以确保安全。夏季提供午夜阳光观赏机会。"
+    "tip": "建议白天参观以确保安全。夏季提供午夜阳光观赏机会。",
+    "rosenborg": "Open 24 hours, year-round",
+    "rosenborgTime": "00:00-24:00 (no closure)"
   },
   "tickets": {
     "title": "门票价格",
@@ -77,17 +78,18 @@
     "parking": "停车场收费 (自2023年起)",
     "parkingDesc": "虽然景点免费，但使用瀑布旁的官方停车场需要支付停车费（用于场地维护）。",
     "parkingPrice": "1000 ISK / 次",
-    "garden": "摄影机位",
-    "gardenPrice": "免费",
-    "rosenborg": "商业拍摄许可",
-    "adults": "普通游客",
-    "adultsPrice": "免费",
-    "students": "学生",
-    "studentsPrice": "免费",
-    "under17": "儿童",
-    "under17Price": "免费",
-    "card": "无人机航拍",
-    "cardPrice": "需遵守当地限飞规定"
+    "garden": "免费入场（无门票）",
+    "gardenPrice": "0 ISK（冰岛克朗）/ 0 欧元",
+    "rosenborg": "Free admission",
+    "adults": "成人票：免费",
+    "adultsPrice": "0 ISK",
+    "students": "学生票：免费",
+    "studentsPrice": "0 ISK",
+    "under17": "17 岁以下门票：免费",
+    "under17Price": "0 ISK",
+    "card": "无票卡 / 通票要求",
+    "cardPrice": "不适用（无卡）",
+    "note": "补充说明（重要）：景点本身永久免费，24 小时开放、无门票、无年龄限制。唯一费用：停车场收费约 1000 ISK / 次，非强制，附近有少量免费车位。无任何二次收费项目。"
   },
   "transport": {
     "title": "交通方式",
@@ -119,14 +121,14 @@
   },
   "route": {
     "title": "游览路线",
-    "overview": "游览Kirkjufellsfoss非常简单直接。建议预留1-1.5小时，从不同的角度拍摄瀑布和背景的教会山。",
+    "overview": "游览 Kirkjufellsfoss 非常简单直接。建议预留 1-1.5 小时，从不同的角度拍摄瀑布和背景的教会山。",
     "steps": [
       "到达与停车：将车停在公路旁的免费停车场",
       "下层瀑布：首先映入眼帘的是下层瀑布，可以在桥上或水边拍摄",
       "沿着小径向上：沿着维护良好的小径向山坡上走",
       "经典机位：到达上层瀑布旁的观景台，这里是将瀑布作为前景、教会山作为背景的最佳拍摄点",
       "过桥：穿过瀑布上方的小桥，从另一侧欣赏不同光线下的景色",
-      "探索周边：拍摄结束后，可以驾车前往仅需3分钟车程的 Grundarfjörður 小镇享用冰岛美食"
+      "返程下山：沿原路平缓下山返回停车场，途中可再次停留拍摄不同时段的光影效果"
     ],
     "tips": {
       "title": "游览贴士",
@@ -276,7 +278,8 @@
         "src": "/gallery/Kirkjufellsfoss (8).jpg",
         "alt": "晚霞中的瀑布"
       }
-    ]
+    ],
+    "viewAllUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7"
   },
   "reviews": {
     "title": "游客评价",
@@ -312,8 +315,9 @@
   "mapSection": {
     "title": "地图",
     "openMaps": "查看",
-    "openMapsUrl": "https://maps.app.goo.gl/Udg4tj8Qj2YhasFD7",
-    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    "openMapsUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus",
+    "subtitle": "查看柯克尤费尔斯瀑布地理位置与自驾导航路线"
   },
   "footer": {
     "logo": "Kirkjufellsfoss",
