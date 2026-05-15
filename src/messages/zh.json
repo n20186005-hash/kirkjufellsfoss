@@ -321,7 +321,7 @@
   },
   "mapSection": {
     "title": "地图",
-    "openMaps": "查看",
+    "openMaps": "在 Google Maps 查看",
     "openMapsUrl": "https://maps.app.goo.gl/f1JesQgkNCFUtFNr7",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1667.1436151443685!2d-23.313410299999998!3d64.92617659999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d57b3b7720935d%3A0xcba20fba0d346393!2sKirkjufellsfoss!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus",
     "subtitle": "查看柯克尤费尔斯瀑布地理位置与自驾导航路线"
