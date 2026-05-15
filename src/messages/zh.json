@@ -67,8 +67,14 @@
     "fortressDesc": "瀑布及周边区域全年全天 24 小时可进入。无需门票。",
     "fortressTime": "24 小时",
     "tip": "建议白天参观以确保安全。夏季提供午夜阳光观赏机会。",
-    "rosenborg": "Open 24 hours, year-round",
-    "rosenborgTime": "00:00-24:00 (no closure)"
+    "rosenborg": "全年 24 小时开放",
+    "rosenborgTime": "00:00-24:00 (无关闭时间)",
+    "summer": "夏季 (5月-9月)",
+    "summerTime": "00:00-24:00 (无关闭时间)",
+    "winter": "冬季 (10月-4月)",
+    "winterTime": "00:00-24:00 (无关闭时间)",
+    "christmas": "节假日",
+    "christmasTime": "00:00-24:00 (无关闭时间)"
   },
   "tickets": {
     "title": "门票价格",
@@ -310,7 +316,8 @@
         "rating": 4,
         "text": "风景绝佳，就是人有点多。建议早点去，我们早上7点到的，独享了这片美景。"
       }
-    ]
+    ],
+    "moreReviewsUrl": "https://maps.app.goo.gl/sqAi6LAk8itRbJv87"
   },
   "mapSection": {
     "title": "地图",

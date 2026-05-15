@@ -66,9 +66,15 @@
     "fortress": "Site Access",
     "fortressDesc": "The waterfall and surrounding area are accessible 24 hours a day, year-round. No entrance fee required.",
     "fortressTime": "24 Hours",
-    "tip": "Best visited during daylight hours for safety. Summer offers midnight sun viewing opportunities.",
+    "tip": "It is recommended to visit during daylight for safety. Summer offers midnight sun viewing opportunities.",
     "rosenborg": "Open 24 hours, year-round",
-    "rosenborgTime": "00:00-24:00 (no closure)"
+    "rosenborgTime": "00:00-24:00 (no closure)",
+    "summer": "Summer (May-Sep)",
+    "summerTime": "00:00-24:00 (no closure)",
+    "winter": "Winter (Oct-Apr)",
+    "winterTime": "00:00-24:00 (no closure)",
+    "christmas": "Holidays",
+    "christmasTime": "00:00-24:00 (no closure)"
   },
   "tickets": {
     "title": "Ticket Prices",
@@ -276,7 +282,8 @@
         "rating": 4,
         "text": "Absolutely stunning scenery, but it can get quite crowded. I recommend going early; we arrived at 7 AM and had the place to ourselves."
       }
-    ]
+    ],
+    "moreReviewsUrl": "https://maps.app.goo.gl/sqAi6LAk8itRbJv87"
   },
   "mapSection": {
     "title": "Map",
