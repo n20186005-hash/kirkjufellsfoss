@@ -106,11 +106,15 @@
     }
   },
   "knowledge": {
-    "title": "History",
+    "title": "History & Geology",
     "sections": [
       {
-        "title": "Geology",
-        "content": "Kirkjufell mountain"
+        "title": "Geological Formation",
+        "content": "Kirkjufell (Church Mountain) was shaped by a combination of glacial erosion during the Pleistocene epoch and volcanic activity. Its unique symmetrical cone structure makes it the most recognizable mountain in Iceland. The Kirkjufellsfoss waterfall was formed by glacial meltwater flowing over basalt steps, dividing into upper, middle, and lower cascades."
+      },
+      {
+        "title": "Cultural Impact",
+        "content": "The mountain is named for its shape, which resembles a church roof. In modern pop culture, it is most famous for its appearance as Arrowhead Mountain in the hit HBO series Game of Thrones, which caused its global popularity to increase exponentially."
       }
     ]
   },
@@ -136,20 +140,40 @@
     "title": "Photo Spots",
     "spots": [
       {
-        "name": "Spot 1",
-        "desc": "Desc 1"
+        "name": "Classic Postcard View",
+        "desc": "Located next to the upper waterfall. Use a wide-angle lens to capture the flowing water as the foreground with the complete Kirkjufell mountain in the background. This is also the exact Game of Thrones filming perspective."
+      },
+      {
+        "name": "The Small Bridge",
+        "desc": "Standing on the small bridge above the waterfall, you can capture dynamic shots of the water rushing down."
+      },
+      {
+        "name": "Northern Lights Spot",
+        "desc": "On winter nights, set up your tripod near the parking lot or the classic viewpoint. The extremely low light pollution here makes it a perfect spot for framing the Northern Lights alongside the mountain."
       }
-    ]
+    ],
+    "tips": "Using an ND filter (Neutral Density filter) can help you achieve that silky smooth water effect during the daytime. Due to strong winds, be sure to use a sturdy tripod."
   },
   "hotels": {
-    "title": "Hotels",
+    "title": "Accommodation",
     "hotels": [
       {
-        "name": "Hotel",
-        "desc": "Desc",
-        "price": "€100"
+        "name": "Grundarfjörður Town",
+        "desc": "Just a 5-minute drive from the waterfall. The town offers various guesthouses, B&Bs, and restaurants with convenient amenities, making it an ideal base camp for exploring the Snæfellsnes Peninsula.",
+        "price": "Approx. €120-250 / night"
+      },
+      {
+        "name": "Stykkishólmur",
+        "desc": "The largest town on the Snæfellsnes Peninsula, about a 40-minute drive from the waterfall. It features a beautiful harbor and a wider variety of dining options.",
+        "price": "Approx. €100-200 / night"
+      },
+      {
+        "name": "Surrounding Farmstays",
+        "desc": "There are many farmstays scattered across the peninsula offering a peaceful rural experience. They are perfect for watching the Northern Lights directly outside your door at night.",
+        "price": "Approx. €90-180 / night"
       }
-    ]
+    ],
+    "exitWarning": "Accommodations on the Snæfellsnes Peninsula are highly sought after during the summer peak season. It is recommended to book at least 3-6 months in advance."
   },
   "gallery": {
     "title": "Photo Gallery",
@@ -317,7 +341,7 @@
   },
   "officialManagement": {
     "title": "About Kirkjufellsfoss",
-    "text": "Kirkjufellsfoss is located near Grundarfjörður on the Snæfellsnes Peninsula in Iceland. It is one of the most representative natural landscapes in the country. Together with the Kirkjufell mountain in the background, it forms the most photographed iconic view in Iceland. The area is managed for ecological conservation and tourism by the Environment Agency of Iceland and the local municipality."
+    "text": "Located near Grundarfjörður on the Snæfellsnes Peninsula, Kirkjufellsfoss is one of Iceland's most iconic natural landscapes. Together with Kirkjufell (Church Mountain) in the background, it forms the most photographed scene in Iceland. The area is jointly managed for ecological protection and tourism by the Environment Agency of Iceland and the local municipality."
   },
   "privacy": {
     "title": "Privacy Policy",
