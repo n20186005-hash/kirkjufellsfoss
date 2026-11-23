@@ -210,3 +210,18 @@ a {
   color: var(--text-secondary);
   line-height: 1.7;
 }
+
+#gallery,
+#reviews,
+#map {
+  scroll-margin-top: 4.5rem;
+}
+
+@media (max-width: 767px) {
+  #gallery,
+  #reviews,
+  #map,
+  .nearby-guide section[id] {
+    scroll-margin-top: 6.5rem;
+  }
+}
