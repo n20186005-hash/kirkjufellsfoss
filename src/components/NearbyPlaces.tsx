@@ -23,12 +23,14 @@ export function NearbyCards({ places, locale }: { places: NearbyPlace[]; locale:
 
 export default function NearbyPlaces({ locale }: { locale: GuideLocale }) {
   const t = copy[locale];
+  const featuredSlugs = ['kirkjufell', 'grundarfoss', 'stykkisholmur', 'saxholl', 'arnarstapi', 'budakirkja'];
+  const featured = nearbyPlaces.filter((place) => featuredSlugs.includes(place.slug));
   return (
     <section id="nearby" className="section-padding bg-[var(--bg-tertiary)]">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-3xl sm:text-4xl font-semibold">{t.nearby}</h2>
+        <h2 className="text-3xl sm:text-4xl font-semibold">{t.overview}</h2>
         <p className="mt-3 mb-7 text-[var(--text-secondary)]">{t.intro}</p>
-        <NearbyCards places={nearbyPlaces.slice(0, 3)} locale={locale} />
+        <NearbyCards places={featured} locale={locale} />
         <Link href={nearbyPath()} className="inline-block mt-6 font-semibold text-[var(--accent)] underline">{t.all}</Link>
       </div>
     </section>

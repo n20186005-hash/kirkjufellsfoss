@@ -18,7 +18,7 @@
       "description": "冰川侵蚀留下孤立山体，层状岩壁与狭长山脚随观赏角度改变轮廓。",
       "transport": "从格伦达菲厄泽镇向西走 54 号公路，在瀑布停车区停靠，从标示步道看山。",
       "photo": "从瀑布步道把山峰与水流置于同一画面。",
-      "management": "Grundarfjörður 市镇发布到访和步道信息。山脚的通行以地主管理和入口标示为准。",
+      "management": "教会山瀑布旁的访客停车地块为私人土地，停车收费由 Sannir 公布。山体通行请查阅地主及 Grundarfjörður 市镇的访客信息。",
       "access": "可在公共观景路径远观。停车收费及登山通行依入口规定。",
       "visit": "短停以山脚和瀑布观景为主；登顶属于另一项行程，请先查当地限制。",
       "area": "54 号公路，Grundarfjörður 西侧"
@@ -29,11 +29,12 @@
       "description": "Glacial erosion helped isolate the mountain, and its layered cliffs and narrow base give it a different silhouette from either side.",
       "transport": "Drive west from Grundarfjörður on Route 54 and use the waterfall parking area for signed ground-level views.",
       "photo": "Frame the peak above the running water from the waterfall path.",
-      "management": "Grundarfjörður municipality publishes local access information. Follow landowner instructions and signs at the mountain’s base.",
+      "management": "The visitor car park by the waterfall is on private land, with parking charges published by Sannir. Consult landowner and Grundarfjörður visitor information for access to the mountain.",
       "access": "View from public paths. Check posted parking charges and mountain access rules.",
       "visit": "For a short stop, use the low viewpoints and waterfall path. Check local restrictions separately for any summit trip.",
       "area": "Route 54, west of Grundarfjörður"
-    }
+    },
+    "managementSource": "https://www.sannir.is/kf"
   },
   {
     "slug": "grundarfoss",
@@ -56,7 +57,7 @@
       "photo": "在步道上用长焦压缩瀑布与崖壁的距离。",
       "management": "Grundarfjörður 市镇提供瀑布游览信息；步道经过牧地，请遵守出入口告示。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "把这一站留给从东侧进镇或离镇的行程，顺路看谷地和直落水线。",
       "area": "54 号公路，Grundarfjörður 东侧"
     },
     "en": {
@@ -67,9 +68,10 @@
       "photo": "Use a longer lens from the path to bring the cascade and cliff together.",
       "management": "Grundarfjörður municipality provides visitor information. The approach crosses grazing land, so follow signs at the entrance.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Make this the stop when entering or leaving town from the east, with time to look up the valley to the main drop.",
       "area": "Route 54, east of Grundarfjörður"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "berserkjahraun",
@@ -90,9 +92,9 @@
       "description": "约四千年前形成的熔岩地带，名字与《埃里人萨迦》中的狂战士故事有关。",
       "transport": "从北岸 54 号公路接入 558 号路，出发前查看路况与租车限制。",
       "photo": "在可以合法停车的位置拍低矮苔原与尖锐熔岩轮廓。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "驾车通行按 558 号路的道路公告和现场路标安排，熔岩地的步行以可通行的区域为限。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "适合接在赫尔加山与格伦达菲厄泽之间，行车时间随路面条件调整。",
       "area": "558 号公路，Grundarfjörður 与 Stykkishólmur 之间"
     },
     "en": {
@@ -101,11 +103,12 @@
       "description": "The roughly 4,000-year-old lava field takes its name from a berserker story in Eyrbyggja Saga.",
       "transport": "Take Route 558 from the north-coast section of Route 54 after checking road conditions and rental restrictions.",
       "photo": "Use a legal pull-off to photograph the low moss and jagged lava.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "Follow Route 558 road notices and on-site signs. Foot access is limited to permitted parts of the lava field.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Slot it between Helgafell and Grundarfjörður, allowing for a slower drive when the surface is rough.",
       "area": "Route 558, between Grundarfjörður and Stykkishólmur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "stykkisholmur",
@@ -128,7 +131,7 @@
       "photo": "从港湾对岸望向泊船和历史街区，留出水面反光。",
       "management": "Sveitarfélagið Stykkishólmur 管理镇港公共空间。工作码头通行以港务标示为准。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "若要搭渡轮，将港边散步安排在报到前，给候船留出时间。",
       "area": "港区，340 Stykkishólmur"
     },
     "en": {
@@ -139,9 +142,10 @@
       "photo": "Look across the basin toward the boats and historic streets, allowing room for reflections.",
       "management": "Sveitarfélagið Stykkishólmur oversees the town harbour’s public areas. Follow harbour signs around working quays.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "If catching the ferry, do the waterfront walk before check-in and allow time at the terminal.",
       "area": "Harbour area, 340 Stykkishólmur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "sugandisey",
@@ -164,7 +168,7 @@
       "photo": "从步道高处回拍港口的船、水面和小镇屋顶。",
       "management": "斯蒂基斯霍尔米市镇提供港区和小岛的游览信息；灯塔外的步道以现场告示为准。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可和港边老街连成一段散步，风较强时在码头回望灯塔即可。",
       "area": "港区防波堤，340 Stykkishólmur"
     },
     "en": {
@@ -175,9 +179,10 @@
       "photo": "Turn back from the upper path to capture boats, water and town rooftops.",
       "management": "The municipality of Stykkishólmur provides harbour and island visitor information. Follow local signs around the lighthouse.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair it with the harbour streets, or view the light from the quay when winds are strong.",
       "area": "Harbour breakwater, 340 Stykkishólmur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "helgafell",
@@ -200,7 +205,7 @@
       "photo": "在山顶现有步道构图，把田野与湾岸连成层次。",
       "management": "赫尔加山步道从当地农地进入，通行和费用以地主入口告示为准。",
       "access": "私地步道，以现场开放规定及费用为准。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "把赫尔加山安排在进出斯蒂基斯霍尔米途中；雨后先看上坡地面的状况。",
       "area": "Helgafell 农场，340 Stykkishólmur"
     },
     "en": {
@@ -211,9 +216,10 @@
       "photo": "Frame the fields and bay in layers from the existing summit path.",
       "management": "The trail starts on local farmland. The landowner posts access and admission terms at the entrance.",
       "access": "Trail on private land. Check posted access terms and charges.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Visit on the way into or out of Stykkishólmur and check the ground on the ascent after rain.",
       "area": "Helgafell farm, 340 Stykkishólmur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "drapuhlidarfjall",
@@ -234,9 +240,9 @@
       "description": "不同颜色的岩层让山坡呈现赭黄、灰暗和红褐色斑带，适合从远处观察岩性变化。",
       "transport": "经斯蒂基斯霍尔米以南的公路接近，以合法停车点远望山体。",
       "photo": "用长焦将抽象色带与山脚地形放进同一幅画面。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "西冰岛旅游局提供山体地貌资料，停车和进入山坡前请查看入口通行告示。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "低云遮住山顶时仍可留意下段色带；适合与北岸渔港排在同一天。",
       "area": "Stykkishólmur 南侧，近 54 号公路"
     },
     "en": {
@@ -245,11 +251,12 @@
       "description": "Rock layers give the slope bands of ochre, grey and rusty red best appreciated from a distance.",
       "transport": "Approach on the roads south of Stykkishólmur and use a legal stopping place for distant views.",
       "photo": "Use a telephoto composition to relate the abstract colour bands to the foot of the mountain.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "Visit West Iceland provides landscape information. Check local access notices before parking or entering the slopes.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Even if the summit is in cloud, look for bands lower on the slope. It fits a day of north-coast harbour stops.",
       "area": "South of Stykkishólmur, near Route 54"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "flatey",
@@ -285,7 +292,8 @@
       "access": "Village lanes are public. Ferry travel requires a separate ticket and runs to schedule.",
       "visit": "Fit the village walk between confirmed sailings and leave time to return to the dock.",
       "area": "Flatey ferry landing, 345 Flatey"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "svodufoss",
@@ -306,9 +314,9 @@
       "description": "瀑布沿玄武岩崖跌落，柱状节理与上方雪山是这一站的地貌看点。",
       "transport": "从 574 号公路转入标示停车区，再沿步道往瀑布走。",
       "photo": "在步道上收进柱状崖壁，云层散开时可把冰川带入远景。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "瀑布位于 Snæfellsbær 市镇的 Rif 附近。西冰岛旅游局发布河谷步道资料，现场入口和步道告示提供通行指引。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可和里夫附近的因格亚尔德斯霍尔教堂合访，看瀑布水量与冰川能见度安排停留。",
       "area": "574 号公路 Rif 段，Svöðufoss 停车入口"
     },
     "en": {
@@ -317,11 +325,12 @@
       "description": "The waterfall drops over basalt. Jointed rock and the snowy mountain above are the main landscape features.",
       "transport": "Turn from Route 574 into the signed parking area and continue along the waterfall trail.",
       "photo": "Include the jointed cliff from the trail and add the glacier in the distance when clouds lift.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "The waterfall lies near Rif in Snæfellsbær. Visit West Iceland publishes information for the valley trail, and the entrance signs give on-site access instructions.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair it with Ingjaldshóll church near Rif and allow time for views of the falls and, when clear, the glacier.",
       "area": "Svöðufoss parking turnoff, Route 574 near Rif"
-    }
+    },
+    "managementSource": "https://www.west.is/en/experiences/trails/svodufoss"
   },
   {
     "slug": "ingjaldsholl",
@@ -344,7 +353,7 @@
       "photo": "在公共停车点或步行区域以长焦构图，避免站在车道上。",
       "management": "教堂仍属宗教场所，开放安排以现场教会信息为准。",
       "access": "可从户外参观，进入教堂按现场安排。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可与里夫及海利桑德连访，若现场有仪式则在外围短停。",
       "area": "574 号公路支路，Rif 与 Hellissandur 之间"
     },
     "en": {
@@ -355,9 +364,10 @@
       "photo": "Compose with a longer lens from public parking or pedestrian space, clear of the road.",
       "management": "The church remains a place of worship. Follow local church information on indoor access.",
       "access": "Exterior views are available. Indoor access follows local arrangements.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Combine it with Rif and Hellissandur. Keep to the exterior if a service is taking place.",
       "area": "Off Route 574, between Rif and Hellissandur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "skardsvik",
@@ -378,7 +388,7 @@
       "description": "淡色沙滩嵌在黑色熔岩岸之间，与半岛西端常见的深色海岸形成鲜明对比。",
       "transport": "由 574 号公路转向 Öndverðarnes 支路，使用海滩停车点。",
       "photo": "从上方步道拍浅色沙地与黑色岬角的色差。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
       "visit": "可从高处看沙滩色差，临海活动依现场浪况和告示调整。",
       "area": "Öndverðarnes 支路，Skarðsvík 停车场"
@@ -389,11 +399,12 @@
       "description": "Pale sand sits between dark lava headlands, a distinctive contrast on the western peninsula.",
       "transport": "Leave Route 574 on the Öndverðarnes road and use the beach parking area.",
       "photo": "Photograph the light sand and black headlands together from the upper approach.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
       "visit": "See the colour contrast from the upper approach and follow signs and surf conditions near the shore.",
       "area": "Skarðsvík parking, Öndverðarnes side road"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "ondverdarnes",
@@ -414,9 +425,9 @@
       "description": "半岛西端的小灯塔立在荒凉熔岩岬地，鲜亮塔身与低矮黑岩相衬。",
       "transport": "从斯卡兹维克沿支路继续到尽端，检查当日路面状况。",
       "photo": "从灯塔陆地一侧拍塔身与广阔海平线。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "把灯塔排在斯卡兹维克之后，给支路往返留足时间。",
       "area": "Öndverðarnes 支路尽端"
     },
     "en": {
@@ -425,11 +436,12 @@
       "description": "A small, brightly coloured lighthouse stands above the low, dark lava of the western headland.",
       "transport": "Continue past Skarðsvík to the end of the side road and check surface conditions on the day.",
       "photo": "Photograph the lighthouse and broad sea horizon from the landward side.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Visit after Skarðsvík and allow time to drive back along the side road.",
       "area": "End of the Öndverðarnes access road"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "saxholl",
@@ -450,7 +462,7 @@
       "description": "红褐色火山渣锥高出周围熔岩原，阶梯沿着火山锥坡度攀升。",
       "transport": "从 574 号公路转入火山口停车处，沿建成的阶梯上行。",
       "photo": "从指定观景区向下拍火山口，再转向拍尽头的熔岩平原。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
       "visit": "阶梯一路到火山口边缘，风强时可改在山脚看火山锥。",
       "area": "574 号公路，Saxhóll 停车场"
@@ -461,11 +473,12 @@
       "description": "The reddish cinder cone rises from surrounding lava fields. A staircase follows its slope to the rim.",
       "transport": "Turn off Route 574 into the crater car park and take the constructed stairs.",
       "photo": "Photograph the crater from the designated viewpoint, then look outward across the lava plain.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
       "visit": "The stairs lead to the rim. In strong wind, view the cone from its base.",
       "area": "Saxhóll car park, Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "djupalonssandur",
@@ -486,7 +499,7 @@
       "description": "黑色卵石、昔日渔民的举重石与 1948 年沉船残件记录了海岸地貌和渔业历史。",
       "transport": "从 574 号公路转入海滩停车区，沿指定小径下行。",
       "photo": "在高处拍卵石海湾的弧线，沉船残件可从干燥区域远拍。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
       "visit": "先看举重石与沉船遗迹，拍照时远离涌浪地带。",
       "area": "574 号公路，Djúpalónssandur 停车场"
@@ -497,11 +510,12 @@
       "description": "Black pebbles, traditional lifting stones and remains from a 1948 wreck tell the story of the shore and its fishery.",
       "transport": "Turn off Route 574 for the beach car park and follow the designated descent.",
       "photo": "Frame the curve from higher ground and photograph the wreck fragments from dry land.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
       "visit": "Start with the lifting stones and wreck remains, and take photos clear of the reach of the surf.",
       "area": "Djúpalónssandur car park, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "vatnshellir",
@@ -537,7 +551,8 @@
       "access": "Paid guided tours operate at scheduled booking times.",
       "visit": "The cave stays cool. Wear warm clothing and grippy footwear and follow the guide’s equipment instructions.",
       "area": "Vatnshellir tour meeting point, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "malarrif",
@@ -558,9 +573,9 @@
       "description": "1946 年建成的灯塔位于开阔海岸，附近访客中心解说当地自然及渔业遗迹。",
       "transport": "从 574 号公路进入 Malarrif 访客中心停车区，徒步沿标示方向到灯塔。",
       "photo": "从远处把塔身与海岸草地一同纳入画面。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "先确认访客中心时段，再决定以灯塔短停或接走海岸步道。",
       "area": "574 号公路，Malarrif 访客中心"
     },
     "en": {
@@ -569,11 +584,12 @@
       "description": "Built in 1946, the lighthouse stands on an exposed shore near the visitor centre interpreting local nature and fishing remains.",
       "transport": "Park at the Malarrif visitor centre off Route 574 and walk toward the lighthouse on the signed path.",
       "photo": "Step back on the marked path to include the lighthouse and coastal grassland.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Check visitor-centre hours before deciding between a lighthouse stop and a longer coastal walk.",
       "area": "Malarrif visitor centre, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "londrangar",
@@ -594,9 +610,9 @@
       "description": "两座岩柱从海岸突出，是侵蚀后保留下来的火山岩体。",
       "transport": "在 574 号公路的 Svalþúfa 观景停车点停靠，使用面向岩柱的步道。",
       "photo": "从护栏内用长焦拍两座岩柱与浪花，保留崖缘距离。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可与马拉里夫同访，短停选 Svalþúfa 观景区，较长停留可查看园方步道。",
       "area": "574 号公路，Svalþúfa 观景停车场"
     },
     "en": {
@@ -605,11 +621,12 @@
       "description": "Two prominent sea stacks are the volcanic rock that remains after coastal erosion.",
       "transport": "Use the Svalþúfa viewpoint parking off Route 574 and follow its sea-stack viewing path.",
       "photo": "Use a long lens from behind the barrier to frame both stacks and waves.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair it with Malarrif. Use the Svalþúfa overlook for a short stop or check park trails for a longer visit.",
       "area": "Svalþúfa viewpoint parking, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "svalthufa",
@@ -630,9 +647,9 @@
       "description": "高地展示断崖、海鸟栖息壁和面向 Lóndrangar 的海岸线。",
       "transport": "走 574 号公路进入 Svalþúfa 停车区，再沿护栏内步道观景。",
       "photo": "沿悬崖线取斜向构图，突出岩面与大海的高差。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "海鸟季可带望远镜，从护栏内观察岩壁上的空中活动。",
       "area": "574 号公路，Svalþúfa 海崖步道起点"
     },
     "en": {
@@ -641,11 +658,12 @@
       "description": "The headland overlooks sea cliffs, seabird habitat and the coast toward Lóndrangar.",
       "transport": "Pull into the Svalþúfa car park off Route 574 and use the protected viewpoint path.",
       "photo": "Compose diagonally along the cliff line to show its height above the sea.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "In seabird season, bring binoculars and watch activity along the cliff from within the barriers.",
       "area": "Svalþúfa cliff trailhead, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "snaefellsjokull",
@@ -666,9 +684,9 @@
       "description": "斯奈山半岛西端冰川覆盖火山，也是儒勒·凡尔纳《地心游记》中的地心入口。",
       "transport": "沿 574 号公路找合规停车点远观；冰川体验须另行预订合适的向导。",
       "photo": "在晴朗时以海岸熔岩地作前景，突出冰盖与山体的轮廓。",
-      "management": "园方负责保护与步道维护。请查阅国家公园的路线与临时通行信息。",
+      "management": "景点位于斯奈菲尔冰川国家公园。冰岛自然保护署下的国家公园团队负责保护及访客步道管理，临时通行信息由园方发布。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "把冰川远眺作为半岛环线中的机动一站，能见度好时再停。",
       "area": "半岛西端，沿 574 号公路多处可远观"
     },
     "en": {
@@ -677,11 +695,12 @@
       "description": "The glacier caps the volcano at the end of the peninsula and gives Jules Verne’s Journey to the Centre of the Earth its fictional entrance.",
       "transport": "View the glacier from a legal stop on Route 574. Arrange a qualified guide separately for a glacier trip.",
       "photo": "Use coastal lava as foreground on a clear day to outline the ice cap.",
-      "management": "The national park team oversees conservation and trail access. Check the park for route updates and temporary restrictions.",
+      "management": "This site is in Snæfellsjökull National Park. The park team within Iceland’s Nature Conservation Agency manages conservation and visitor trails and publishes access updates.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Keep the glacier view flexible on a peninsula loop and stop when visibility improves.",
       "area": "Western tip of Snæfellsnes, visible from Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "arnarstapi",
@@ -704,7 +723,7 @@
       "photo": "从指定步道看港湾与峭壁，或将 Gatklettur 海蚀拱纳入路线。",
       "management": "海岸属于自然保护区，按冰岛自然保护署及保护区现场告示通行。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "短停看港湾和岩拱。若步行至海德纳尔，出发前安排折返或接车。",
       "area": "574 号公路支路，356 Arnarstapi 港区"
     },
     "en": {
@@ -715,9 +734,10 @@
       "photo": "Use the marked path for harbour and cliff views, or include the Gatklettur arch on the walk.",
       "management": "The coast forms part of a nature reserve. Follow Nature Conservation Agency guidance and signs on site.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "For a short stop, see the harbour and sea arch. Arrange a return walk or a pickup before continuing to Hellnar.",
       "area": "Harbour, 356 Arnarstapi, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "hellnar",
@@ -740,7 +760,7 @@
       "photo": "在湾上部以岩壁作边框，让浪线延伸至画面深处。",
       "management": "海岸属于自然保护区，按冰岛自然保护署及保护区现场告示通行。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可从海湾入口短停观察岩岸，也可把海德纳尔作为海岸步道的起终点。",
       "area": "574 号公路支路，356 Hellnar"
     },
     "en": {
@@ -751,9 +771,10 @@
       "photo": "Frame the bay with rock from above and let the surf line lead into the scene.",
       "management": "The coast forms part of a nature reserve. Follow Nature Conservation Agency guidance and signs on site.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Use the bay approach for a short look at the rocks, or make Hellnar the start or end of the coastal walk.",
       "area": "356 Hellnar, off Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "budakirkja",
@@ -776,7 +797,7 @@
       "photo": "从围墙外取景，将黑色木墙与远山、浅色云层放在一起。",
       "management": "教堂是当地宗教场所。进入建筑或遇见礼拜、婚礼时，须依现场教会安排。",
       "access": "可从户外参观，内部开放依教会安排。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "教堂外观与不远处的比亚尔纳瀑布适合连访，两处分别使用指定入口。",
       "area": "Búðir，54 号公路支路"
     },
     "en": {
@@ -787,9 +808,10 @@
       "photo": "Frame the black wood with mountains and light cloud from outside the churchyard boundary.",
       "management": "The church is a local place of worship. Follow church arrangements for indoor access, services and weddings.",
       "access": "Exterior views are available. Indoor access follows church arrangements.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair the church exterior with nearby Bjarnarfoss, using the separate visitor entrances.",
       "area": "Búðir, off Route 54"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "bjarnarfoss",
@@ -810,9 +832,9 @@
       "description": "瀑布从半岛南侧山壁落下，两段水流与崖壁之间的落差从公路一带即可看见。",
       "transport": "在 54 与 574 号公路交汇一带寻找专用停车点，沿步道接近。",
       "photo": "在下方步道选竖幅构图，收进岩壁和两段水流。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "西冰岛旅游局发布比亚尔纳瀑布步道资料。停车和步道上行范围以场地入口告示为准。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "云低时可从下方步道看水线，晴天再留时间观察瀑布上方崖壁。",
       "area": "54 与 574 号公路交汇附近，Bjarnarfoss 停车入口"
     },
     "en": {
@@ -821,11 +843,12 @@
       "description": "The waterfall drops in two parts from the southern escarpment, with a visible change of level even from near the road.",
       "transport": "Use the designated car park near the Routes 54 and 574 junction and approach on the trail.",
       "photo": "Compose vertically from the lower path to include the escarpment and both drops.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "Visit West Iceland publishes information for the Bjarnarfoss trail. Follow the entrance notices for parking and the extent of foot access.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Use the lower trail for views in low cloud and spend more time looking at the upper cliff on clear days.",
       "area": "Bjarnarfoss parking turnoff near the Routes 54 and 574 junction"
-    }
+    },
+    "managementSource": "https://www.west.is/en/experiences/trails/bjarnarfoss"
   },
   {
     "slug": "raudfeldsgja",
@@ -846,9 +869,9 @@
       "description": "这条峡谷在 Botnsfjall 山体上形成明显纵向裂口，名字来自当地的 Bárður 萨迦。",
       "transport": "从 574 号公路进入峡谷停车区，沿坡路走到裂口前。",
       "photo": "从入口外拍峡缝与两侧岩壁，雨后优先选择干燥位置。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "游客从 574 号路旁的停车入口进入。入峡与否以现场告示、步道状态和水位为准。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可与阿尔纳斯塔皮港连访，将峡谷段安排在天气较干燥时。",
       "area": "574 号公路，Rauðfeldsgjá 停车场"
     },
     "en": {
@@ -857,11 +880,12 @@
       "description": "The ravine cuts an unmistakable vertical cleft into Botnsfjall and takes its name from the local Bárður saga.",
       "transport": "Use the ravine car park off Route 574 and walk up the slope to the mouth.",
       "photo": "Photograph the split from outside the entrance, choosing dry ground after rain.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "Visitor access starts at the parking turnoff from Route 574. Follow entrance signs, trail conditions and water levels at the ravine.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair it with Arnarstapi harbour and time the gorge stop for drier conditions.",
       "area": "Rauðfeldsgjá car park, Route 574"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "ytri-tunga",
@@ -882,7 +906,7 @@
       "description": "低潮时裸露礁石可能有海豹休息，潮位和天气会改变可观察范围。",
       "transport": "在 54 号公路按海滩路标转入停车场，然后循标示路线走向观察区。",
       "photo": "用长焦拍远处海豹，留在观察线内并让出动物通往海水的路线。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "冰岛自然保护署负责野生哺乳动物保护，访客需遵守海滩入口的停车与观察距离告示。",
       "access": "户外海豹观察地，停车费以现场告示为准。",
       "visit": "低潮前后观察条件通常更好，现场有海豹时尽量保持安静。",
       "area": "54 号公路，Ytri Tunga 海滩停车入口"
@@ -893,11 +917,12 @@
       "description": "Seals sometimes rest on the rocks exposed at low tide, while tide and weather determine what can be seen.",
       "transport": "Follow the beach signs from Route 54 to parking, then take the marked approach to the watching area.",
       "photo": "Use a long lens from the viewing side and leave the seals a clear route to the water.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "Iceland’s Nature Conservation Agency is responsible for wild mammal protection. Follow local instructions for parking and viewing distances.",
       "access": "Outdoor seal-watching site. Check posted parking charges.",
       "visit": "Viewing is often better around low tide. Keep voices low when seals are present.",
       "area": "Ytri Tunga beach parking turnoff, off Route 54"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "gerduberg",
@@ -918,9 +943,9 @@
       "description": "岩浆冷却收缩形成整齐的柱状节理，长段岩壁像一排并列石柱。",
       "transport": "从东南段 54 号公路转入通向岩壁的支路，停在指定空间后远望。",
       "photo": "用斜向构图表现石柱不断向远处延伸的节奏。",
-      "management": "通行以入口标示为准。所附景点资料提供当地访客资讯。",
+      "management": "岩柱位于 54 号公路外的支路旁。请按入口告示停车，在允许进入的地段观察岩壁。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "可与埃尔德堡安排在同一段南岸行程，对比柱状节理与火山锥。",
       "area": "54 号公路支路，311 Borgarnes 邮区"
     },
     "en": {
@@ -929,11 +954,12 @@
       "description": "Cooling lava contracted into closely spaced columns, creating a long wall of parallel basalt pillars.",
       "transport": "Leave the southeastern section of Route 54 on the access road and view the wall from designated parking or foot access.",
       "photo": "Shoot obliquely to show the repetition of the pillars into the distance.",
-      "management": "Follow conditions posted at the access point. The linked destination listing provides local visitor information.",
+      "management": "The columns are reached on a side road off Route 54. Follow posted parking instructions and view the wall from permitted areas.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Pair it with Eldborg on the south coast to compare columnar joints with a volcanic cone.",
       "area": "Gerðuberg access road off Route 54, 311 Borgarnes area"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "olkelda",
@@ -956,7 +982,7 @@
       "photo": "近拍出水点和周边沉积，取景时为后来的访客留出通道。",
       "management": "矿泉位于 Ölkelda 农场，访客通行以农场入口规则为准。",
       "access": "开放及费用依农场入口告示。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "这是南岸短停点，适合在前往海豹海滩途中查看矿物沉积。",
       "area": "Ölkelda 农场，54 号公路南侧"
     },
     "en": {
@@ -967,9 +993,10 @@
       "photo": "Photograph the outlet and deposits up close while keeping access clear for other visitors.",
       "management": "The spring is on the Ölkelda farm. The farm’s posted rules govern visitor access.",
       "access": "Follow the farm’s posted access and payment instructions.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "This is a brief south-coast stop to look at mineral deposits en route to the seal beach.",
       "area": "Ölkelda farm, south of Route 54"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "eldborg",
@@ -990,9 +1017,9 @@
       "description": "规则的环形火山口高出熔岩平原，前往火山口的路段可以观察熔岩地表。",
       "transport": "从 54 号公路转至 Snorrastaðir，按入口标示进入火山口步道。",
       "photo": "从接近路段拍完整火山锥，至指定高处再看内壁。",
-      "management": "埃尔德堡属于冰岛保护地，登山入口经过 Snorrastaðir 农场，遵从保护地与农场的标示。",
+      "management": "埃尔德堡为冰岛自然保护地，保护事务由冰岛自然保护署负责。Snorrastaðir 农场一侧设步道入口和停车服务。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "把火山口当作单独的往返徒步安排，为农场至火山锥的进出路段留足时间。",
       "area": "Snorrastaðir 步道入口，54 号公路支路"
     },
     "en": {
@@ -1001,11 +1028,12 @@
       "description": "The regular ring of the crater rises from a broad lava plain, and the approach crosses exposed lava terrain.",
       "transport": "Turn off Route 54 for Snorrastaðir and follow the signed trail to the crater.",
       "photo": "Photograph the whole cone from the approach before looking into the crater from the designated high ground.",
-      "management": "Eldborg is a protected site. The approach crosses Snorrastaðir farmland and follows reserve and farm signs.",
+      "management": "Eldborg is a protected site under Iceland’s Nature Conservation Agency. The approach and visitor parking are on the Snorrastaðir side.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "Plan a separate out-and-back walk and allow for the full approach between the farm and cone.",
       "area": "Snorrastaðir trailhead, off Route 54"
-    }
+    },
+    "managementSource": "https://ust.is/english/visiting-iceland/protected-areas/west/eldborg-in-hnappadalur/"
   },
   {
     "slug": "olafsvik",
@@ -1041,7 +1069,8 @@
       "access": "Outdoor visit. Follow posted access and parking information.",
       "visit": "Allow time for a short waterfront walk to see the working harbour.",
       "area": "Harbour area, 355 Ólafsvík"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "hellissandur",
@@ -1077,7 +1106,8 @@
       "access": "Check the museum’s seasonal opening and admission before visiting.",
       "visit": "Start with the boats and buildings outdoors, then visit the indoor displays if they are open.",
       "area": "Fishermen’s Park, 360 Hellissandur"
-    }
+    },
+    "managementSource": null
   },
   {
     "slug": "gatklettur",
@@ -1100,7 +1130,7 @@
       "photo": "从正式观景点借拱孔框住远处海面，风大时在稳固地面拍摄。",
       "management": "海岸属于自然保护区，按冰岛自然保护署及保护区现场告示通行。",
       "access": "户外游览，按入口及停车告示通行。",
-      "visit": "将游览重点放在标示步道和观景点，按当日风雨及路况安排停留。",
+      "visit": "从港边短走即可到观景点。沿岸风较大时优先安排短线。",
       "area": "356 Arnarstapi 海岸步道"
     },
     "en": {
@@ -1111,8 +1141,9 @@
       "photo": "Frame the sea through the rock opening from the established viewpoint, staying on firm ground in windy conditions.",
       "management": "The coast forms part of a nature reserve. Follow Nature Conservation Agency guidance and signs on site.",
       "access": "Outdoor visit. Follow posted access and parking information.",
-      "visit": "Use the signed path and established viewpoints, and plan the stop around the day’s weather and road conditions.",
+      "visit": "It is a short walk from the harbour. Choose the shorter outing when winds pick up along the coast.",
       "area": "Arnarstapi coastal path, 356 Arnarstapi"
-    }
+    },
+    "managementSource": null
   }
 ]

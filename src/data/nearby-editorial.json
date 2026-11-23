@@ -1,0 +1,467 @@
+{
+  "kirkjufell": {
+    "zh": {
+      "background": "对照山腰的水平岩层和两侧不对称的山坡，最容易看出为何同一座山从瀑布边和镇上看起来形状不同。",
+      "walk": "先从瀑布下方的步道看山的完整轮廓，再从标示的小桥附近看水流与岩层。",
+      "question": "需要登山才能拍到经典画面吗？",
+      "answer": "瀑布一侧的低位步道就能拍到山峰与水流，按原路返回停车区即可。"
+    },
+    "en": {
+      "background": "Compare the horizontal bands and uneven slopes. The mountain’s silhouette looks very different from town and from the falls.",
+      "walk": "Start on the lower waterfall path for the whole silhouette, then use the signed bridge approach for views of the stream and rock layers.",
+      "question": "Do I need to climb for the classic view?",
+      "answer": "The lower waterfall path gives you both the summit and stream in one frame. Return by the same path."
+    },
+    "accessQuery": "Kirkjufellsfoss Parking, Grundarfjörður Iceland"
+  },
+  "grundarfoss": {
+    "zh": {
+      "background": "远看可分辨高台上的主落差和谷底的缓坡。附近的牧地也解释了为什么访问路线集中在标示通道。",
+      "walk": "在停车点先辨认山壁中央的水线，沿谷地看水帘逐渐展开，在步道末端折返。",
+      "question": "这和教会山瀑布是同一个地方吗？",
+      "answer": "Grundarfoss 在镇东，Kirkjufellsfoss 在镇西。两处在 54 号公路上各有入口。"
+    },
+    "en": {
+      "background": "From a distance you can distinguish the main drop from the gentler valley floor. The grazing land explains why access is concentrated on the marked approach.",
+      "walk": "Locate the cascade from the parking area, follow the valley as the fall widens into view and turn back at the end of the marked path.",
+      "question": "Is this the same stop as Kirkjufellsfoss?",
+      "answer": "Grundarfoss lies east of town and Kirkjufellsfoss to the west, with separate approaches off Route 54."
+    },
+    "accessQuery": "Grundarfoss Parking, Grundarfjörður Iceland"
+  },
+  "berserkjahraun": {
+    "zh": {
+      "background": "萨迦把此地与穿越熔岩原的旧路联系起来。沿路可比较起伏的熔岩脊、缝隙和缓慢覆盖岩面的苔藓。",
+      "walk": "行车游览前先看 558 号路两端的路况，从允许停车的位置走几步观察粗糙的熔岩表层。",
+      "question": "可以走进苔藓取景吗？",
+      "answer": "请在已有路面或允许通行的地面取景。苔藓覆在岩缝上，既脆弱也会遮住落脚处。"
+    },
+    "en": {
+      "background": "The saga associates this landscape with an old route across the lava. Look for ridges, fissures and patches of moss slowly covering the rock.",
+      "walk": "Check both ends of Route 558, then make a short stop at a legal pull-off to study the surface of the lava.",
+      "question": "Can I walk onto the moss for photos?",
+      "answer": "Use the established road surface or permitted foot access. The fragile moss also covers fissures and obscures footing."
+    },
+    "accessQuery": "Berserkjahraun, Route 558 Iceland"
+  },
+  "stykkisholmur": {
+    "zh": {
+      "background": "港边住宅和仓储建筑集中在狭窄的岸线之后。从码头一侧看，海湾、防波堤和建筑之间的关系一目了然。",
+      "walk": "先走公共海旁看渡轮和渔船，再沿镇中心街道回程，从侧面看老屋木墙。",
+      "question": "能在港里搭船去弗拉泰岛吗？",
+      "answer": "Baldur 渡轮从这个港口启航。订票时确认该班次停靠弗拉泰岛，并核对回程。"
+    },
+    "en": {
+      "background": "Houses and former storage buildings cluster just behind the narrow shoreline. From the quay you can read the relationship between town, breakwater and bay.",
+      "walk": "Follow the public waterfront past ferries and fishing boats, then loop back through the town centre to see the timber houses.",
+      "question": "Can I catch a ferry to Flatey from here?",
+      "answer": "Baldur sails from this harbour. Confirm that your sailing stops at Flatey and check the return before booking."
+    },
+    "accessQuery": "Stykkishólmur Harbour, Iceland"
+  },
+  "sugandisey": {
+    "zh": {
+      "background": "连接岛和镇的人工堤改变了港湾的入口。登上岩顶回望，能同时看到防波堤如何遮护港池和灯塔所面向的开阔海域。",
+      "walk": "从港区跨堤，上阶梯到岩顶看海湾，转向城镇一侧俯瞰港池后原路下行。",
+      "question": "适合只在港口短暂停留的人吗？",
+      "answer": "可以走到防波堤就返回。若有足够时间和适合的天气，再沿阶梯上岛。"
+    },
+    "en": {
+      "background": "The causeway joining the island to town changed the harbour entrance. From above you can see how it shelters the basin and where the light faces the open water.",
+      "walk": "Cross the causeway, take the stairs to the island’s higher ground and look back over the harbour before retracing your steps.",
+      "question": "Can I fit it into a short harbour stop?",
+      "answer": "You can walk as far as the breakwater and turn back. Add the stairs when you have time and suitable weather."
+    },
+    "accessQuery": "Súgandisey Lighthouse, Stykkishólmur Iceland"
+  },
+  "helgafell": {
+    "zh": {
+      "background": "这里长期和冰岛萨迦及宗教传统相联。山丘不高，远望却能辨认农田、海湾之间的开阔地形。",
+      "walk": "从农地入口沿既有路线登上山丘，在山顶停留看遗迹和湾岸，再沿入口方向下山。",
+      "question": "要照着许愿传说走全程吗？",
+      "answer": "许愿属于地方传统。实际路线以地主告示、开放情况和步道条件为准。"
+    },
+    "en": {
+      "background": "The hill has longstanding ties to Icelandic sagas and religious tradition. Despite its modest height, its summit opens views across farms and bay.",
+      "walk": "Follow the established approach from the farm, pause at the top for ruins and bay views, then return toward the entrance.",
+      "question": "Do I have to follow the wishing tradition?",
+      "answer": "Wishing is a local tradition. Your access is governed by the landowner’s signs and trail conditions."
+    },
+    "accessQuery": "Helgafell Holy Mountain, Stykkishólmur Iceland"
+  },
+  "drapuhlidarfjall": {
+    "zh": {
+      "background": "赭黄和红褐色裸岩在山体表面展开。雨后或侧光下，颜色条带会和覆盖植被的地段拉开对比。",
+      "walk": "把它当作北岸行车途中停靠点，从合规停车位置观察山坡的不同色带。",
+      "question": "地图标记是在登山口吗？",
+      "answer": "地图搜索指向山体。计划徒步时，先向当地旅游咨询点核对实际可用的入口。"
+    },
+    "en": {
+      "background": "Ochre and rusty bands run across the exposed face. After rain or in side light the contrast with vegetated ground becomes clearer.",
+      "walk": "Treat it as a north-coast driving stop and compare the coloured bands from a legal parking area.",
+      "question": "Does the map pin mark a trailhead?",
+      "answer": "The search identifies the mountain. For a hike, confirm an available trailhead with local visitor information."
+    },
+    "accessQuery": "Drápuhlíðarfjall, Snæfellsnes Iceland"
+  },
+  "flatey": {
+    "zh": {
+      "background": "木屋沿通往码头的道路排开，反映岛上曾依靠海路与外界往来。门窗、外墙与低矮的街道尺度比单看全岛远景更能说明聚落特色。",
+      "walk": "从码头沿村路走过木屋，在公共路段回望港湾，按渡轮时间原路返回。",
+      "question": "车要开上岛吗？",
+      "answer": "岛上村落适合步行。自驾可把车留在斯蒂基斯霍尔米，提前查渡轮的乘客安排。"
+    },
+    "en": {
+      "background": "Timber houses line the road inland from the dock, reflecting the island’s maritime links. Their doors, siding and low street profile tell more about the settlement than a distant view.",
+      "walk": "Follow the village lane past the houses, look back to the harbour from public ground and return in time for the ferry.",
+      "question": "Should I take a car to the island?",
+      "answer": "The settlement is easy to explore on foot. Drivers can leave the car at Stykkishólmur and check passenger arrangements ahead of time."
+    },
+    "accessQuery": "Flatey Ferry Terminal, Breiðafjörður Iceland"
+  },
+  "svodufoss": {
+    "zh": {
+      "background": "瀑布脚下可以看到深色玄武岩和水流的白色形成对比。晴天时，冰川和瀑布同框能交代半岛西端的高差。",
+      "walk": "从停车区沿 Hólmkelsá 河谷的标示步道到瀑布前，先看整体落差，再找柱状岩壁。",
+      "question": "阴天还值得去吗？",
+      "answer": "阴天仍能清楚看见水流和岩壁；冰川可能被低云遮住。"
+    },
+    "en": {
+      "background": "Dark basalt contrasts with white water. On a clear day, framing the glacier above the falls shows the range of elevations at the western end of the peninsula.",
+      "walk": "Follow the signed approach along the Hólmkelsá valley, first looking at the whole drop, then the jointed rock behind it.",
+      "question": "Is it worth a visit under cloud?",
+      "answer": "The water and cliff remain visible under cloud, although the glacier may disappear behind it."
+    },
+    "accessQuery": "Svöðufoss Parking, Rif Iceland"
+  },
+  "ingjaldsholl": {
+    "zh": {
+      "background": "这座早期混凝土教堂以白墙和红顶延续传统教堂的外观，立在旧教区的山丘上。观察主立面、塔身和远处山地之间的比例。",
+      "walk": "从停车处走至教堂前方，沿公共范围换到侧面看塔身，避开墓地和出入口的通行线。",
+      "question": "能进教堂吗？",
+      "answer": "户外可看立面；内部参观随当地教会的开放和礼拜安排。"
+    },
+    "en": {
+      "background": "The early concrete church keeps the familiar white walls and red roof of the local church landscape. Look at the proportions of its front, steeple and surrounding mountains.",
+      "walk": "Walk from parking to the front, then use public ground for a side view of the tower. Keep burial plots and entrances clear.",
+      "question": "Can I go inside?",
+      "answer": "The exterior is visible from outside. Interior access depends on local church hours and services."
+    },
+    "accessQuery": "Ingjaldshólskirkja, Snæfellsnes Iceland"
+  },
+  "hellissandur": {
+    "zh": {
+      "background": "渔人公园的渔船和传统建筑展示捕捞与岸上工作之间的关系。先观察船体的大小，再与低矮建筑和展陈对照。",
+      "walk": "先看公园里的船和建筑外墙，再走到馆方标示的入口，按当季开放情况进入。",
+      "question": "馆内关门时还有什么可看？",
+      "answer": "可在公园开放区域看户外船只和建筑；室内展陈请另核开放安排。"
+    },
+    "en": {
+      "background": "Fishing boats and traditional buildings in Fishermen’s Park show how work at sea connected to work ashore. Compare the boats’ proportions with the low buildings and displays.",
+      "walk": "Start with the boats and building exteriors, then use the signed museum entrance if the indoor exhibits are open.",
+      "question": "What can I see if the museum is closed?",
+      "answer": "Look for boats and buildings in open parts of the park. Check the museum’s seasonal schedule for indoor displays."
+    },
+    "accessQuery": "Sjóminjasafnið í Sjómannagarðinum, Hellissandur Iceland"
+  },
+  "skardsvik": {
+    "zh": {
+      "background": "淡色砂和暗色熔岩之间的边界非常清楚。站在上方可分辨海湾曲线和两侧抵挡部分海浪的岬角。",
+      "walk": "停车后先在上方步道看整片沙湾，再按现场告示决定是否继续往低处走。",
+      "question": "看完海滩可以接哪一站？",
+      "answer": "同一条支路可继续到翁德韦达内斯灯塔，先核对当天的道路和风况。"
+    },
+    "en": {
+      "background": "The line between pale sand and dark lava is particularly clear. From above you can read the curve of the bay and the headlands that give it partial shelter.",
+      "walk": "From parking start with the whole bay from above. Follow signs and conditions before going farther down.",
+      "question": "What pairs well with the beach?",
+      "answer": "The same side road continues to Öndverðarnes Lighthouse. Check the road and wind before continuing."
+    },
+    "accessQuery": "Skarðsvík Beach Parking, Snæfellsnes Iceland"
+  },
+  "ondverdarnes": {
+    "zh": {
+      "background": "现有灯塔承接了二十世纪初以来对半岛西端航线的标识功能。塔体低矮，和周围开阔的熔岩岬地形成鲜明反差。",
+      "walk": "从支路尽端沿标示通行区走到灯塔外，回头看低矮岩地和道路之间的关系。",
+      "question": "这一站和马拉里夫灯塔是同一个吗？",
+      "answer": "翁德韦达内斯在半岛最西端的支路尽头，马拉里夫须从南侧 574 号路另行进入。"
+    },
+    "en": {
+      "background": "The present light continues a navigational role established here in the early twentieth century. Its compact structure contrasts with the sweeping lava headland.",
+      "walk": "From the end of the side road walk on the marked approach to the exterior, then turn back to see how the road threads through the lava.",
+      "question": "Is this the same lighthouse as Malarrif?",
+      "answer": "Öndverðarnes is at the end of the western headland road. Malarrif is reached separately from the southern section of Route 574."
+    },
+    "accessQuery": "Öndverðarnes Lighthouse, Iceland"
+  },
+  "saxholl": {
+    "zh": {
+      "background": "火山渣堆积成锥体。登顶前可看到阶梯怎样沿坡面转折，从火山口边则能同时观察内部凹地和外部熔岩原。",
+      "walk": "停车后走既设阶梯到观景处，沿观景区域看火山口，随后从同一段阶梯返回。",
+      "question": "只想短停也能看到火山地貌吗？",
+      "answer": "在停车区附近就能辨认独立的红褐色火山锥；上阶梯才会看到火山口内部。"
+    },
+    "en": {
+      "background": "Cinders built up into a cone. On the climb notice how the stairs follow the slope, then compare the depression inside with the lava plain outside.",
+      "walk": "Take the built stairs from parking, see the crater from the viewpoint and return down the same staircase.",
+      "question": "Can I see the volcanic landscape on a short stop?",
+      "answer": "The reddish cone is visible from near the car park. The climb gives you the view into the crater."
+    },
+    "accessQuery": "Saxhóll Crater Parking, Iceland"
+  },
+  "djupalonssandur": {
+    "zh": {
+      "background": "举重石反映旧渔业的体力要求，沉船残件记录另一段沿岸航行史。海水磨圆的黑石则把两段历史置于地质背景中。",
+      "walk": "沿停车场下行步道先看举重石，再在干燥地段看沉船遗物。若计划接走 Dritvík，另查公园路线和开放状况。",
+      "question": "石头或沉船残件可以带走吗？",
+      "answer": "请留在原处。从观景路径拍照即可同时保留地貌和历史现场。"
+    },
+    "en": {
+      "background": "The lifting stones recall the demands of the old fishery, while wreck fragments tell a separate maritime story. Wave-rounded black stones set both in a geological context.",
+      "walk": "Follow the path down past the lifting stones, then view the wreck fragments from dry ground. Check park guidance separately if continuing to Dritvík.",
+      "question": "Can I take a pebble or piece of the wreck?",
+      "answer": "Leave both in place. Photograph from the viewing path to preserve the landform and historic site."
+    },
+    "accessQuery": "Djúpalónssandur Parking, Iceland"
+  },
+  "vatnshellir": {
+    "zh": {
+      "background": "熔岩外层先冷却，内部仍流动的熔岩排空后留下管状空间。沿楼梯进入洞里时，可观察洞壁保留的流动纹理。",
+      "walk": "到洞口集合，先听向导说明装备和下梯规则，再随团进入并从指定出口返回地面。",
+      "question": "可以自行进洞吗？",
+      "answer": "参观由运营方安排的向导带领。查看当日集合时间、装备要求和适合年龄。"
+    },
+    "en": {
+      "background": "The outside of a lava flow cooled first. When molten material drained away inside, it left a tube whose wall textures can be seen from the guided route.",
+      "walk": "Meet at the cave entrance, listen to the equipment and stair briefing, then descend and return with the guide.",
+      "question": "Can I explore the cave independently?",
+      "answer": "Visits run with the operator’s guide. Check meeting times, equipment requirements and age guidance."
+    },
+    "accessQuery": "Vatnshellir Cave Tour, Iceland"
+  },
+  "malarrif": {
+    "zh": {
+      "background": "现存灯塔建于 1946 年。灯塔和附近的盐屋展示航海、渔业如何共同塑造这一小段开阔海岸。",
+      "walk": "先从访客中心停车区走到塔外，随后回到中心了解渔业遗存。中心开门时可先问 Svalþúfa 方向的步道情况。",
+      "question": "可以登塔吗？",
+      "answer": "请把塔外作为主要游览点。中心展览和开放时间由国家公园公布。"
+    },
+    "en": {
+      "background": "The present lighthouse dates to 1946. Together with the nearby salt house it shows how navigation and fishing shaped this open stretch of coast.",
+      "walk": "Walk from visitor-centre parking to the tower and back to the centre for the fishing history. When it is open, ask about the path toward Svalþúfa.",
+      "question": "Can I climb the lighthouse?",
+      "answer": "Plan for an exterior visit. The park publishes the visitor centre’s exhibition information and hours."
+    },
+    "accessQuery": "Malarrif Visitor Centre, Iceland"
+  },
+  "londrangar": {
+    "zh": {
+      "background": "两座海蚀柱高度和轮廓不同，较软周边岩体被海岸侵蚀后，坚硬的火山岩仍立在浪线外。",
+      "walk": "从 Svalþúfa 的正式观景处远望成对岩柱；若想换角度，可按公园路况走向马拉里夫方向。",
+      "question": "只停一个停车场能看到两座岩柱吗？",
+      "answer": "可以从 Svalþúfa 指定观景处看两座岩柱；停车、拍照和崖缘通行均按现场标示。"
+    },
+    "en": {
+      "background": "The two stacks differ in height and outline. The harder volcanic rock remained as the coast around it eroded.",
+      "walk": "Start with the pair from the formal Svalþúfa viewpoint. If conditions suit, use the park path toward Malarrif for a different angle.",
+      "question": "Can I see both stacks from a single stop?",
+      "answer": "Both can be seen from the designated Svalþúfa viewpoint. Follow signs for parking and cliff-side access."
+    },
+    "accessQuery": "Svalþúfa Parking, Lóndrangar Iceland"
+  },
+  "svalthufa": {
+    "zh": {
+      "background": "这里的核心是从崖顶顺岸看岩壁与近海，海鸟栖息的崖面和不同高度的岩台构成纵深。",
+      "walk": "从停车点沿观景步道步行，在护栏内依次看断崖、海面和远端岩柱。想加长时查国家公园去马拉里夫的路线。",
+      "question": "这里与隆德兰加尔怎么区分？",
+      "answer": "Svalþúfa 是可停留观景的崖顶地带；Lóndrangar 是从此处眺望的两座火山岩柱。"
+    },
+    "en": {
+      "background": "The main view follows the coast from above, across bird habitat and rock shelves at several levels.",
+      "walk": "Follow the viewpoint path from parking and look along the cliffs, sea and stacks from within the barriers. Check the park’s Malarrif route for a longer walk.",
+      "question": "How does this differ from Lóndrangar?",
+      "answer": "Svalþúfa is the cliff-top area where you stop. Lóndrangar is the pair of volcanic stacks seen from it."
+    },
+    "accessQuery": "Svalþúfa Viewpoint Parking, Iceland"
+  },
+  "snaefellsjokull": {
+    "zh": {
+      "background": "凡尔纳把冰川火山写入《地心游记》。现实中，海岸上最容易辨认的是暗色熔岩与冰盖分层，云下往往只露出部分山肩。",
+      "walk": "从西端海岸公路的合法停靠点远观，若想拍冰盖，可从不同侧面比较云量和光向。",
+      "question": "适合临时决定登冰川吗？",
+      "answer": "冰川行程需提前联系有资质的向导，短停可选海岸观景和访客中心。"
+    },
+    "en": {
+      "background": "Jules Verne wrote the glacier-capped volcano into Journey to the Centre of the Earth. From the coast the clearest features are the dark lava and ice cap, though clouds may leave only the shoulders visible.",
+      "walk": "View from a legal stop on the western coastal road. Compare cloud cover and light from different sides if photographing the ice cap.",
+      "question": "Can I decide on the spot to go onto the glacier?",
+      "answer": "Arrange qualified guidance before any glacier trip. For a short stop use coastal viewpoints and the visitor centre."
+    },
+    "accessQuery": "Malarrif Visitor Centre, Iceland"
+  },
+  "arnarstapi": {
+    "zh": {
+      "background": "港湾曾是天然登陆点与贸易据点。看港口两侧的柱状玄武岩和海蚀洞，再对照今天的泊船位置。",
+      "walk": "从公共停车处先下到可通行的港边，再沿指示上到海岸步道，想延长可走到加特克莱图尔。",
+      "question": "步行到 Hellnar 要多久？",
+      "answer": "国家公园列出单程约 2.5 公里、约 1 小时。往返或两端接车要另留时间。"
+    },
+    "en": {
+      "background": "The bay once provided a landing and trading point. Compare the basalt columns and caves on either side with where boats tie up today.",
+      "walk": "Start with public areas by the harbour, then follow signs up to the coastal path. Extend the walk to Gatklettur if time permits.",
+      "question": "How long is the walk to Hellnar?",
+      "answer": "The park lists roughly 2.5 km and about an hour one way. Allow extra time for the return or arrange transport."
+    },
+    "accessQuery": "Arnarstapi Harbour, Iceland"
+  },
+  "gatklettur": {
+    "zh": {
+      "background": "海浪沿玄武岩的弱面扩大裂缝，留下可透看后方海面的岩孔。拱的厚度和周围柱状岩壁可从正式观景点分辨。",
+      "walk": "从阿尔纳斯塔皮港或村内公共停车处沿标示海岸路行走，在正式观景点折返或继续前往 Hellnar。",
+      "question": "要走到岩拱上才能看到拱孔吗？",
+      "answer": "正式海岸观景点能看到拱孔和海面。可以在步道内换取景角度。"
+    },
+    "en": {
+      "background": "Waves enlarged weaknesses in the basalt until they opened a window onto the sea. The formal viewpoint shows the thickness of the arch and the jointed cliffs around it.",
+      "walk": "Follow the signed coastal path from the village or harbour. Turn back at the lookout or continue toward Hellnar.",
+      "question": "Do I need to walk onto the arch to see the opening?",
+      "answer": "The coastal viewpoint already shows the opening and sea. Change your angle from within the path."
+    },
+    "accessQuery": "Arnarstapi Harbour, Iceland"
+  },
+  "hellnar": {
+    "zh": {
+      "background": "昔日渔业依靠天然海湾。今天从岸边高处能看见岩层、凹洞和低处受到浪蚀的海岸线。",
+      "walk": "从村内停车区往海湾步道走，在高处观察岩岸；计划连走阿尔纳斯塔皮时，先查单程路线和返程。",
+      "question": "可以从这里反向走海岸步道吗？",
+      "answer": "可以从 Hellnar 一侧出发。出发前确认当天步道状态，单程按约 2.5 公里安排。"
+    },
+    "en": {
+      "background": "The former fishery depended on the natural bay. Higher ground now reveals rock layers, hollows and the wave-cut shoreline below.",
+      "walk": "Walk from village parking toward the bay and study the shore from higher ground. Check the route and return before continuing to Arnarstapi.",
+      "question": "Can I start the coastal walk here instead?",
+      "answer": "You can start from the Hellnar end. Check the trail on the day and allow for about 2.5 km one way."
+    },
+    "accessQuery": "Hellnar Parking, Snæfellsnes Iceland"
+  },
+  "budakirkja": {
+    "zh": {
+      "background": "黑色木板外墙、浅色窗框和小型塔身构成这座教堂的外观。远离密集村落的位置也反映昔日 Búðir 聚落的历史。",
+      "walk": "从停车处先看正立面和围墙，再沿开放的外围区域看黑墙与远山的对比。",
+      "question": "教堂附近还有短步道吗？",
+      "answer": "国家公园路线表列有教堂到 Frambúðir 的短线。请以入口标示和当日条件决定是否延伸。"
+    },
+    "en": {
+      "background": "Black timber siding, pale window trim and a compact steeple define the building. Its isolated setting recalls the older settlement at Búðir.",
+      "walk": "Start with the front and boundary wall from the car park, then use the open exterior approach for the contrast with the mountains.",
+      "question": "Is there a short walk near the church?",
+      "answer": "The park lists a short route from the church to Frambúðir. Check trailhead signs and conditions before extending the visit."
+    },
+    "accessQuery": "Búðakirkja Parking, Iceland"
+  },
+  "bjarnarfoss": {
+    "zh": {
+      "background": "瀑布把上部崖壁和下方草坡连接成两段。站在低处转动视线，能看清水线如何穿过玄武岩岩带。",
+      "walk": "从停车区沿谷口步道向瀑布走，在下方停留比较两段落差，按当日步道状况原路返回。",
+      "question": "可以和布迪尔黑教堂一起安排吗？",
+      "answer": "两处靠近同一段公路，但有各自入口。先在瀑布停车点停留，再开往教堂。"
+    },
+    "en": {
+      "background": "The fall links the upper cliff and grassy slope in two drops. From below, follow the water visually as it crosses bands of basalt.",
+      "walk": "Follow the lower trail from parking, pause below the falls to compare both drops and retrace your steps.",
+      "question": "Can I combine it with Búðakirkja?",
+      "answer": "They are near the same road junction and have separate access. Visit the waterfall parking first, then drive to the church."
+    },
+    "accessQuery": "Bjarnarfoss Parking, Snæfellsnes Iceland"
+  },
+  "raudfeldsgja": {
+    "zh": {
+      "background": "Bárður 萨迦赋予这条裂谷地方故事。实地最清楚的是岩壁间的狭窄开口、坡脚水线以及峡口两侧的高差。",
+      "walk": "从停车区沿坡上行，在裂口外看岩层和水道。岩面湿滑或遇积雪时可在较低的干燥路段折返。",
+      "question": "一定要涉水进去吗？",
+      "answer": "峡口外就能观察纵向裂缝，也有条件拍到两侧岩壁。"
+    },
+    "en": {
+      "background": "The Bárður saga gives the gorge a local story. The narrow opening, stream and steep walls are the visible features that explain the landform.",
+      "walk": "Walk uphill from parking to view the layers and stream from outside the cleft. Turn back on lower dry ground when surfaces are slick or snow-covered.",
+      "question": "Do I have to enter the stream?",
+      "answer": "The vertical cleft and both walls can be seen and photographed from outside."
+    },
+    "accessQuery": "Rauðfeldsgjá Gorge Parking, Iceland"
+  },
+  "ytri-tunga": {
+    "zh": {
+      "background": "低潮会露出更多海豹可能休息的礁石。观察时先找礁石边缘和水线，海豹有时只露出头部。",
+      "walk": "从停车区按标示沿岸走到观察处，停在指定位置分段扫视礁石，再原路返回。",
+      "question": "如果没看到海豹，可以继续走近礁石吗？",
+      "answer": "留在指定观察区，用望远镜或长焦扫视。海豹是否出现取决于潮位、海况与动物活动。"
+    },
+    "en": {
+      "background": "More resting rocks emerge at low tide. Start by scanning the rock edges and waterline, where sometimes only a seal’s head will be visible.",
+      "walk": "Follow the signed shore path to the viewing area, scan the rocks from the designated position and return the same way.",
+      "question": "Should I approach the rocks if no seals are visible?",
+      "answer": "Remain in the designated viewing area and scan with binoculars or a long lens. Sightings depend on the tide, sea conditions and the animals."
+    },
+    "accessQuery": "Ytri Tunga Beach Parking, Iceland"
+  },
+  "gerduberg": {
+    "zh": {
+      "background": "柱面上的棱角来自熔岩冷却收缩后的裂隙。沿岩壁看，柱形和间距并非完全一致，适合斜向比较。",
+      "walk": "从支路合规停车，在崖脚可通行地段侧向观察石柱，再回到车道入口。",
+      "question": "需要爬到岩壁上才能看吗？",
+      "answer": "在崖脚公开通行区域即可看到柱状节理和整段岩墙的比例。"
+    },
+    "en": {
+      "background": "The edges of the columns come from fractures that opened as lava cooled and contracted. An oblique view reveals differences in the shapes and spacing.",
+      "walk": "Park legally off the access road, view the columns obliquely from permitted ground at the base and return to the entrance.",
+      "question": "Do I need to climb the rock wall?",
+      "answer": "Publicly accessible ground below the wall gives a clear view of the joints and the full scale of the cliff."
+    },
+    "accessQuery": "Gerðuberg Cliffs, Iceland"
+  },
+  "olkelda": {
+    "zh": {
+      "background": "出水点规模较小，地面上的红褐沉积比远景更能看出矿物质如何改变水口周围的颜色。",
+      "walk": "按农场标示到停靠处，短步行到泉口，观察沉积后从同一入口返回。",
+      "question": "是可以泡水的温泉吗？",
+      "answer": "这一站是农场上的矿泉出水点，适合短暂停留观察。取水和通行均依农场告示。"
+    },
+    "en": {
+      "background": "The outlet is small. Its reddish deposits show how dissolved minerals colour the ground more clearly than a wider landscape view.",
+      "walk": "Use the farm’s signed stop, walk to the outlet, look for deposits and return through the same access.",
+      "question": "Is it a hot spring for bathing?",
+      "answer": "This is a small mineral-water outlet on a farm. Follow the farm’s signs for access and water use."
+    },
+    "accessQuery": "Ölkelda Mineral Spring, Iceland"
+  },
+  "eldborg": {
+    "zh": {
+      "background": "与周围低平熔岩原相比，埃尔德堡的火山渣锥具有清晰、接近环形的轮廓。从步道接近时最容易看出这种反差。",
+      "walk": "从 Snorrastaðir 入口沿标示线路穿过熔岩地，接近火山口后按现场条件决定是否继续上行，再原路回农场。",
+      "question": "地图能直接开到火山口边吗？",
+      "answer": "导航应设为 Snorrastaðir 步道入口，之后步行到火山口。"
+    },
+    "en": {
+      "background": "Against the low lava plain, Eldborg has a distinct near-circular rim. The approach trail gives the clearest sense of this contrast.",
+      "walk": "Follow the marked route from Snorrastaðir across the lava. Decide at the cone whether to continue upward, then retrace the approach to the farm.",
+      "question": "Does the map give driving access to the rim?",
+      "answer": "Drive to the Snorrastaðir trailhead and continue to the crater on foot."
+    },
+    "accessQuery": "Snorrastaðir Eldborg Trailhead, Iceland"
+  },
+  "olafsvik": {
+    "zh": {
+      "background": "这是仍在运转的渔港。公共海旁可分辨泊船区、作业码头和山坡之间用地紧凑的城镇格局。",
+      "walk": "从城镇公共停车处沿海旁步行，从开放区域看船和防波堤，再走公共街道回到镇中心。",
+      "question": "能走到作业码头拍照吗？",
+      "answer": "可从公共水岸拍渔船和码头。作业区的入口限制以港务标示为准。"
+    },
+    "en": {
+      "background": "This is a working fishing port. The public waterfront shows how the town is squeezed between berths, working quays and the steep slope.",
+      "walk": "Start from town parking, see boats and the breakwater from public areas, then return through the town streets.",
+      "question": "Can I photograph from the working quays?",
+      "answer": "Photograph boats and docks from the public waterfront. Follow port signs restricting working areas."
+    },
+    "accessQuery": "Ólafsvíkurhöfn, Ólafsvík Iceland"
+  }
+}
