@@ -1,0 +1,498 @@
+{
+  "kirkjufell": {
+    "zh": {
+      "tagline": "从瀑布步道看教会山的经典轮廓",
+      "hours": "建议白天从瀑布步道远观；山体通行另查地主公告。",
+      "notice": "请从步道与观景处取景，勿在 54 号公路路肩停留。",
+      "feature": "同一条步道可以先看山的剪影，再在桥附近把多层水流和山峰放在同一视野。"
+    },
+    "en": {
+      "tagline": "The classic silhouette from the waterfall path",
+      "hours": "Plan a daylight visit from the falls path. Check landowner notices separately for mountain access.",
+      "notice": "Use the path and viewpoints for photographs and keep clear of the Route 54 shoulder.",
+      "feature": "The same path gives a clean mountain silhouette and, near the bridge, a view of the peak above the cascades."
+    },
+    "fee": "kirk",
+    "base": "grund"
+  },
+  "grundarfoss": {
+    "zh": {
+      "tagline": "镇东谷地的高瀑与牧野",
+      "hours": "户外步道宜白天前往，遇临时管制按入口告示折返。",
+      "notice": "沿划定通道穿过牧地，经过围栏时请使用指定出入口。",
+      "feature": "远处能看清高台、主瀑与谷底的关系，沿路靠近更容易辨认岩壁的高度。"
+    },
+    "en": {
+      "tagline": "A tall cascade above the valley east of town",
+      "hours": "Use the valley trail in daylight and follow entrance notices for temporary restrictions.",
+      "notice": "Stay on the designated approach through grazing land and use the signed gate.",
+      "feature": "The distant view shows the plateau, main drop and valley floor together. The approach makes the scale of the cliff clearer."
+    },
+    "fee": "posted",
+    "base": "grund"
+  },
+  "berserkjahraun": {
+    "zh": {
+      "tagline": "萨迦故事里的熔岩原与苔原",
+      "hours": "可达性取决于 558 号道路况和临时通行公告。",
+      "notice": "留出回主路的时间，只在允许停靠的位置下车；保护苔藓和岩缝地表。",
+      "feature": "公路低处的熔岩脊和苔藓形成对比，适合在两三个不同角度辨认岩流边缘。"
+    },
+    "en": {
+      "tagline": "The saga landscape of lava ridges and moss",
+      "hours": "Access depends on conditions and temporary restrictions on Route 558.",
+      "notice": "Allow time to return to the main road, stop at legal pull-offs and leave moss and fissured rock undisturbed.",
+      "feature": "Low lava ridges contrast with moss, and legal roadside viewpoints offer different angles on the flow margins."
+    },
+    "fee": "outdoor",
+    "base": "grund"
+  },
+  "stykkisholmur": {
+    "zh": {
+      "tagline": "由历史街区走向布雷扎湾的渔港",
+      "hours": "公共港边适合白天散步；船班和港务区域各有运营时间。",
+      "notice": "优先走公共街巷；等候登船时留意车辆和通往作业泊位的通道。",
+      "feature": "从港区步行就能串起木屋街道、渡轮码头和通往灯塔的防波堤。"
+    },
+    "en": {
+      "tagline": "A fishing harbour beside the old town and Breiðafjörður",
+      "hours": "Walk the public waterfront in daylight. Boat services and port facilities keep separate hours.",
+      "notice": "Use public streets and watch for vehicles near boarding lanes and working berths.",
+      "feature": "The timber-house streets, ferry quay and lighthouse breakwater are linked by a short waterfront walk."
+    },
+    "fee": "public",
+    "base": "stykk"
+  },
+  "sugandisey": {
+    "zh": {
+      "tagline": "跨过防波堤登岩岛看灯塔",
+      "hours": "灯塔从户外看，阶梯和岩顶游览以能见度及现场通行情况为准。",
+      "notice": "上岛阶梯暴露在海风中，遇结冰可留在港边远观。",
+      "feature": "岩岛上能同看镇内港池和外海小岛，台阶下的景色又更贴近水面。"
+    },
+    "en": {
+      "tagline": "A breakwater walk to an island lighthouse",
+      "hours": "View the light from outside. Visibility and on-site conditions determine access to the steps and summit.",
+      "notice": "The island steps are exposed. View the tower from the harbour if the stairs are icy.",
+      "feature": "The hilltop looks over the harbour basin and offshore islands, while the approach brings you close to the water."
+    },
+    "fee": "public",
+    "base": "stykk"
+  },
+  "helgafell": {
+    "zh": {
+      "tagline": "萨迦传说与古迹相遇的低山",
+      "hours": "登山入口位于农地，开放以地主告示为准。",
+      "notice": "在原有路线内往返；保护山顶遗迹和山坡植被。",
+      "feature": "低山顶上的遗迹与俯瞰农田和海湾的视野，是步行的两处重点。"
+    },
+    "en": {
+      "tagline": "A low hill with saga traditions and historic remains",
+      "hours": "The climb starts on farmland. Follow the landowner’s posted access hours.",
+      "notice": "Use the established route both ways and leave summit remains and vegetation undisturbed.",
+      "feature": "The ruins and the outlook across fields to the bay are the two main rewards of the climb."
+    },
+    "fee": "private",
+    "base": "stykk"
+  },
+  "drapuhlidarfjall": {
+    "zh": {
+      "tagline": "北岸公路旁的多色岩层",
+      "hours": "远景可趁白天和能见度良好时看；入山另查入口条件。",
+      "notice": "地图上的山体位置用于辨认景点；路旁停留请选择合法停靠区。",
+      "feature": "低角度侧光会把黄褐、红褐和灰色条带从山坡上分离出来。"
+    },
+    "en": {
+      "tagline": "Multicoloured rock bands above the north-coast roads",
+      "hours": "Look for clear daylight for distant views and confirm access separately before entering the slopes.",
+      "notice": "Use the mountain marker for orientation and choose a legal pull-off to stop.",
+      "feature": "Low side light helps distinguish the ochre, rust-coloured and grey bands on the slopes."
+    },
+    "fee": "outdoor",
+    "base": "stykk"
+  },
+  "flatey": {
+    "zh": {
+      "tagline": "渡轮可达的海湾木屋村",
+      "hours": "公共村路按当地告示通行；抵达和离岛取决于运营方当天班表。",
+      "notice": "先核对两程是否停靠岛上，并给回码头和登船留足时间。",
+      "feature": "岛上村路连接码头和老屋，步行距离短，停留时间主要由船班决定。"
+    },
+    "en": {
+      "tagline": "An island of timber houses reached by ferry",
+      "hours": "Follow local signs on village lanes and check the operator’s timetable for both sailings.",
+      "notice": "Check that both sailings stop on the island and allow time to return to the pier and board.",
+      "feature": "A short village lane links the landing and historic houses. Ferry timings shape the length of a visit."
+    },
+    "fee": "ferry",
+    "base": "island"
+  },
+  "svodufoss": {
+    "zh": {
+      "tagline": "玄武岩崖下的河谷瀑布",
+      "hours": "白天走标示步道，出发前留意 Rif 一带路况和步道告示。",
+      "notice": "在河谷小径内观景，水量大时避免离开路线到近水处。",
+      "feature": "水帘落过柱状玄武岩，天空晴朗时背景还可见冰川。"
+    },
+    "en": {
+      "tagline": "A valley waterfall over a jointed basalt cliff",
+      "hours": "Use the signed approach in daylight and check road and trail notices near Rif.",
+      "notice": "View the falls from the valley path and stay on the route when the river is high.",
+      "feature": "The cascade drops over columnar basalt, with the glacier visible behind it on clear days."
+    },
+    "fee": "posted",
+    "base": "west"
+  },
+  "ingjaldsholl": {
+    "zh": {
+      "tagline": "山丘上的白墙红顶教堂",
+      "hours": "外观适合白天看；礼拜和内部开放由教会安排。",
+      "notice": "墓地与出入口宜保持安静，不在道路中央停步拍摄。",
+      "feature": "教堂、山丘与远山构成由近及远的三层景观，适合从不同的公共位置欣赏。"
+    },
+    "en": {
+      "tagline": "A white-and-red church above Rif and Hellissandur",
+      "hours": "See the exterior in daylight. Indoor visits and services follow church arrangements.",
+      "notice": "Keep burial grounds and entrances quiet and take photographs from outside the road.",
+      "feature": "Church, hill and mountains give three distinct layers that can be seen from different public viewpoints."
+    },
+    "fee": "church",
+    "base": "west"
+  },
+  "hellissandur": {
+    "zh": {
+      "tagline": "渔人公园里的船只和海事记忆",
+      "hours": "西冰岛旅游局所列开放季为 6 月 1 日至 9 月 30 日；当日时段向馆方核对。",
+      "notice": "提前区分馆内展览与户外公园的开放情况，并按馆方标示进入。",
+      "feature": "室内看渔业展陈，户外看船只和历史建筑，两部分可依开放情况分开安排。"
+    },
+    "en": {
+      "tagline": "Fishing boats and coastal history in Fishermen’s Park",
+      "hours": "Visit West Iceland lists 1 June to 30 September as the opening season. Confirm daily hours with the museum.",
+      "notice": "Check indoor and outdoor access separately and use the museum’s signed entrance.",
+      "feature": "The indoor fishing exhibits and outdoor boats and buildings can be visited separately when access allows."
+    },
+    "fee": "museum",
+    "base": "west"
+  },
+  "skardsvik": {
+    "zh": {
+      "tagline": "黑色熔岩岬角之间的浅色沙湾",
+      "hours": "白天在上方步道看海湾，是否下行按公园现场告示。",
+      "notice": "海边观景以现场警示为准，留在远离拍岸浪的位置。",
+      "feature": "浅沙与深色崖壁的反差从步道上方最明显，短停也能看全湾。"
+    },
+    "en": {
+      "tagline": "Pale sand between dark lava headlands",
+      "hours": "See the bay from the upper path in daylight and follow park signs for access below.",
+      "notice": "Follow the shore warnings and stay well clear of breaking waves.",
+      "feature": "The contrast between pale sand and dark headlands is clearest from above, where a short stop takes in the whole bay."
+    },
+    "fee": "park",
+    "base": "west"
+  },
+  "ondverdarnes": {
+    "zh": {
+      "tagline": "半岛西端熔岩岬上的小灯塔",
+      "hours": "白天从户外看塔，支路是否可走以道路和公园公告为准。",
+      "notice": "将狭窄支路的往返时间计入行程，在指定停靠点下车。",
+      "feature": "塔身、低矮熔岩原与外海同处一个视野，地形比塔的高度更醒目。"
+    },
+    "en": {
+      "tagline": "A compact lighthouse at the western tip of the peninsula",
+      "hours": "Visit the exterior in daylight and check road and park notices for the side road.",
+      "notice": "Allow time for both directions on the narrow road and stop in designated areas.",
+      "feature": "The compact tower, low lava fields and open sea share one view, with the headland giving it scale."
+    },
+    "fee": "park",
+    "base": "west"
+  },
+  "saxholl": {
+    "zh": {
+      "tagline": "沿阶梯登火山锥俯瞰熔岩原",
+      "hours": "户外阶梯建议白天游览，风况或结冰可能影响通行。",
+      "notice": "在既设阶梯及观景处活动，天气变化时可改为山脚短停。",
+      "feature": "从底部可看火山锥外形，上到观景处才能辨认火山口凹地和熔岩平原。"
+    },
+    "en": {
+      "tagline": "Stairs up a volcanic cone above lava plains",
+      "hours": "Plan a daylight visit. Wind or ice may affect access to the outdoor stairs.",
+      "notice": "Use the constructed stairs and viewpoint. Switch to a stop at the base if conditions deteriorate.",
+      "feature": "The base shows the cone’s outline. The rim viewpoint reveals the crater depression and the surrounding lava plain."
+    },
+    "fee": "park",
+    "base": "west"
+  },
+  "djupalonssandur": {
+    "zh": {
+      "tagline": "黑卵石、举重石与沉船遗存",
+      "hours": "白天沿指定步道观景，进出以公园和海岸告示为准。",
+      "notice": "从干燥高处观察海滩，留意涌浪，沉船残件及卵石留在原处。",
+      "feature": "在短距离内能看到黑卵石海湾、过去渔民使用的举重石和沉船遗存。"
+    },
+    "en": {
+      "tagline": "Black pebbles, lifting stones and shipwreck remains",
+      "hours": "Use the designated path in daylight and follow park and coastal notices.",
+      "notice": "Observe the shore from dry higher ground, watch for surges and leave wreck fragments and pebbles in place.",
+      "feature": "A short approach takes in the black-pebble bay, fishermen’s lifting stones and visible shipwreck remains."
+    },
+    "fee": "park",
+    "base": "west"
+  },
+  "vatnshellir": {
+    "zh": {
+      "tagline": "跟随向导下到古老的熔岩管",
+      "hours": "全年按季节时段组织导览，具体发团时间以预约页为准。",
+      "notice": "洞内有楼梯且较冷，穿合适的鞋服并按运营方指引使用装备。",
+      "feature": "随向导从地表转入地下，能近看熔岩管内壁留下的流动纹理。"
+    },
+    "en": {
+      "tagline": "A guided descent into an ancient lava tube",
+      "hours": "Guided tours run year-round on a seasonal timetable. Confirm departure times when booking.",
+      "notice": "The cave is cool and has stairs. Wear suitable footwear and clothing and follow equipment instructions.",
+      "feature": "The guided descent moves from the surface into a tube whose walls preserve traces of flowing lava."
+    },
+    "fee": "cave",
+    "base": "south"
+  },
+  "malarrif": {
+    "zh": {
+      "tagline": "白色灯塔与国家公园访客中心",
+      "hours": "灯塔从户外看。访客中心 11–3 月每日 11:00–16:00，4–10 月每日 10:30–16:30，以园方公告为准。",
+      "notice": "开放时可先向访客中心询问海岸步道状况，户外游览请沿标示小径。",
+      "feature": "灯塔适合户外短停，访客中心和旧盐屋则能补充当地生活与渔业背景。"
+    },
+    "en": {
+      "tagline": "A white lighthouse beside the park visitor centre",
+      "hours": "View the lighthouse outdoors. The centre lists 11:00–16:00 daily in Nov–Mar and 10:30–16:30 in Apr–Oct. Check park notices.",
+      "notice": "When the centre is open, ask about coastal trail conditions and use signed paths outdoors.",
+      "feature": "The tower makes a quick outdoor stop. The visitor centre and old salt house add context about local life and fishing."
+    },
+    "fee": "park",
+    "base": "south"
+  },
+  "londrangar": {
+    "zh": {
+      "tagline": "从海崖观景区眺望两座海蚀柱",
+      "hours": "露天观景点宜白天前往，以步道和停车区通行公告为准。",
+      "notice": "在观景区内用长焦看岩柱，给悬崖边缘和海鸟栖息处留出距离。",
+      "feature": "两座岩柱轮廓不同，从崖顶看时可同时比较它们与近岸岩台的高度。"
+    },
+    "en": {
+      "tagline": "Twin sea stacks seen from the clifftop",
+      "hours": "Visit the outdoor viewpoint in daylight and check trail and parking notices.",
+      "notice": "Use a long lens from the lookout and keep clear of cliff edges and bird habitat.",
+      "feature": "The two stacks have distinct outlines that can be compared with the coastal ledges from above."
+    },
+    "fee": "park",
+    "base": "south"
+  },
+  "svalthufa": {
+    "zh": {
+      "tagline": "顺着海岸断崖看海鸟和熔岩岩台",
+      "hours": "户外步道宜白天游览；长线步行可向公园核对开放状态。",
+      "notice": "在正式步道及护栏内停留，延伸至马拉里夫前核对回程。",
+      "feature": "面向外海的步道可顺着岩壁观察海鸟、岩台和远端岩柱。"
+    },
+    "en": {
+      "tagline": "A cliff walk past seabird habitat and lava ledges",
+      "hours": "Visit the outdoor trail in daylight and check park notices before attempting a longer walk.",
+      "notice": "Remain on the signed path within barriers and plan the return before continuing toward Malarrif.",
+      "feature": "The seaward path looks along the cliffs past bird habitat and rock shelves toward the stacks."
+    },
+    "fee": "park",
+    "base": "south"
+  },
+  "snaefellsjokull": {
+    "zh": {
+      "tagline": "在半岛海岸远眺冰川火山",
+      "hours": "远眺视天气和能见度；冰川活动以向导和公园的最新安排为准。",
+      "notice": "将公路停靠远眺与冰川活动分别规划，冰川行程需另行联系资质合适的向导。",
+      "feature": "从海岸多个合法停车点能看冰盖与熔岩地颜色的对比，云层会改变可见范围。"
+    },
+    "en": {
+      "tagline": "A glacier-capped volcano seen from the coastal road",
+      "hours": "Distant views depend on visibility. Glacier trips follow guide and park arrangements.",
+      "notice": "Plan roadside viewpoints separately from glacier activities and arrange qualified guidance for the latter.",
+      "feature": "Legal coastal stops give views of the ice cap against the dark lava, with cloud cover changing what is visible."
+    },
+    "fee": "glacier",
+    "base": "south"
+  },
+  "arnarstapi": {
+    "zh": {
+      "tagline": "古贸易港、柱状岩壁与海蚀洞",
+      "hours": "港边和海岸步道适合白天，遵守保护区及港口入口公告。",
+      "notice": "岸线步道与码头作业通道分别使用；长线徒步先安排从海德纳尔返回。",
+      "feature": "短步行可以看港湾泊船、柱状玄武岩和海蚀洞，时间充裕可接走海岸线。"
+    },
+    "en": {
+      "tagline": "An old trading harbour with basalt columns and caves",
+      "hours": "Visit the harbour and coastal path in daylight and follow reserve and port notices.",
+      "notice": "Keep to pedestrian paths near the working harbour and plan the return from Hellnar before starting the longer walk.",
+      "feature": "A short walk covers the boats, basalt columns and caves. With more time, continue along the coast."
+    },
+    "fee": "public",
+    "base": "south"
+  },
+  "hellnar": {
+    "zh": {
+      "tagline": "历史渔村下的海湾与岩洞",
+      "hours": "露天岸边步道建议白天走，恶劣天气按现场指引折返。",
+      "notice": "先从高处看湾岸，给折返阿尔纳斯塔皮的行程留时间。",
+      "feature": "湾岸岩洞和熔岩层从海边高处更易辨认，也可接走通往阿尔纳斯塔皮的步道。"
+    },
+    "en": {
+      "tagline": "A former fishing village above a wave-cut bay",
+      "hours": "Visit coastal paths in daylight and follow local guidance if conditions turn poor.",
+      "notice": "Start with the bay from higher ground and leave time for the return from Arnarstapi.",
+      "feature": "The caves and lava layers are easiest to read from above the bay. The coastal path continues toward Arnarstapi."
+    },
+    "fee": "public",
+    "base": "south"
+  },
+  "budakirkja": {
+    "zh": {
+      "tagline": "熔岩地里的黑木教堂",
+      "hours": "外观适合白天看，内部开放随教会和仪式安排。",
+      "notice": "保持教堂入口、围墙和墓地通道畅通，有婚礼或礼拜时从外围欣赏。",
+      "feature": "黑木墙、浅色窗框和低矮围墙很适合与背后的草地和山景对照。"
+    },
+    "en": {
+      "tagline": "A black timber church amid lava fields",
+      "hours": "View the exterior in daylight. Indoor access depends on church arrangements and services.",
+      "notice": "Keep the entrance and churchyard paths clear and stay outside the boundary during services when requested.",
+      "feature": "The black siding, pale window trim and low boundary wall stand out against the fields and mountains."
+    },
+    "fee": "church",
+    "base": "south"
+  },
+  "bjarnarfoss": {
+    "zh": {
+      "tagline": "玄武岩山壁上的两段瀑布",
+      "hours": "建议白天沿低处步道，延伸上行以前先看入口告示。",
+      "notice": "在低处停留已可看两级落差，步道湿滑时可就近折返。",
+      "feature": "山崖和下方缓坡让瀑布呈现两段落差，从低位步道就能看出。"
+    },
+    "en": {
+      "tagline": "A two-stage waterfall below a basalt escarpment",
+      "hours": "Use the lower path in daylight and check signs before continuing uphill.",
+      "notice": "The lower path already shows both drops. Turn back if the approach becomes slick.",
+      "feature": "The cliff and gentler grass slope give the fall two distinct drops, visible from the lower trail."
+    },
+    "fee": "posted",
+    "base": "south"
+  },
+  "raudfeldsgja": {
+    "zh": {
+      "tagline": "山坡上由溪水穿过的狭窄峡口",
+      "hours": "白天查看峡口，积雪、结冰或高水位可能影响通行。",
+      "notice": "从裂口外看岩壁即可，水位上升或落脚处不清晰时在外侧折返。",
+      "feature": "从峡口外能同时辨认垂直裂缝、岩壁和坡脚溪流。"
+    },
+    "en": {
+      "tagline": "A narrow mountain cleft cut by a stream",
+      "hours": "See the cleft in daylight. Snow, ice or high water can affect access.",
+      "notice": "View the walls from outside and turn back if the water rises or footing becomes unclear.",
+      "feature": "The vertical cleft, rock walls and stream can all be seen from outside the opening."
+    },
+    "fee": "posted",
+    "base": "south"
+  },
+  "ytri-tunga": {
+    "zh": {
+      "tagline": "低潮时观察礁石上海豹的海滩",
+      "hours": "在白天开放的观察区域停留，出发前查当地潮位和通行告示。",
+      "notice": "从指定观察区使用长焦或望远镜，给海豹留出通往水面的空间。",
+      "feature": "低潮露出更多礁石，海豹有时会停留在岩面或只在水面露头。"
+    },
+    "en": {
+      "tagline": "A shore for seal watching around low tide",
+      "hours": "Visit the designated viewing area in daylight and check local tides and access notices.",
+      "notice": "Use binoculars or a long lens from the viewing area and leave seals a clear route to the water.",
+      "feature": "More rocks emerge at low tide. Seals may rest on them or show only their heads above the water."
+    },
+    "fee": "parking",
+    "base": "east"
+  },
+  "gerduberg": {
+    "zh": {
+      "tagline": "南岸熔岩冷却留下的玄武岩柱墙",
+      "hours": "户外观景宜在白天，支路停车与步行按现场告示。",
+      "notice": "在允许通行的崖脚斜向观察柱形，避免攀爬岩壁。",
+      "feature": "柱墙像一列石柱，斜向看能分辨各根柱子的间距和棱面。"
+    },
+    "en": {
+      "tagline": "A wall of basalt columns along the south coast",
+      "hours": "Visit in daylight and follow access-road parking and walking signs.",
+      "notice": "Compare the columns obliquely from permitted ground at the base and avoid climbing the wall.",
+      "feature": "The wall resembles a row of pillars. An oblique view reveals differences in spacing and facets."
+    },
+    "fee": "posted",
+    "base": "east"
+  },
+  "olkelda": {
+    "zh": {
+      "tagline": "农场泉口的天然矿物沉积",
+      "hours": "按农场公布的访客时间和入口告示通行。",
+      "notice": "以入口告示为准决定是否取水，离开时为农场车辆留出通道。",
+      "feature": "小型泉口旁的红褐沉积比广角远景更能显示矿泉的特点。"
+    },
+    "en": {
+      "tagline": "Mineral deposits at a small farm spring",
+      "hours": "Follow visitor hours and access notices posted by the farm.",
+      "notice": "Follow posted instructions for taking water and keep access clear for farm vehicles.",
+      "feature": "The reddish deposits beside the small outlet show the character of the spring better than a wide landscape view."
+    },
+    "fee": "private",
+    "base": "east"
+  },
+  "eldborg": {
+    "zh": {
+      "tagline": "穿过熔岩地走到近圆形火山锥",
+      "hours": "适合日间往返，按保护地和农场公告核对步道通行。",
+      "notice": "留足走回 Snorrastaðir 的时间，在现场条件适宜时再考虑接近火山口边缘。",
+      "feature": "沿途低平熔岩原与火山锥高差明显，从接近路段可看近圆形外缘。"
+    },
+    "en": {
+      "tagline": "A lava-field walk to a near-circular volcanic cone",
+      "hours": "Plan a daylight return trip and check reserve and farm notices before setting out.",
+      "notice": "Allow for the walk back to Snorrastaðir and decide on the crater rim only after checking conditions.",
+      "feature": "The cone rises clearly above the flat lava field, and the approach shows the near-circular rim in profile."
+    },
+    "fee": "posted",
+    "base": "east"
+  },
+  "olafsvik": {
+    "zh": {
+      "tagline": "山坡与海湾之间仍在运作的渔港",
+      "hours": "公共海旁宜白天游览，工作码头按港务告示开放。",
+      "notice": "从公共水岸观船，留意装卸区入口和渔业车辆。",
+      "feature": "从公共海旁可同时看到泊船、防波堤和紧贴山坡的城镇。"
+    },
+    "en": {
+      "tagline": "A working fishing port between hillside and bay",
+      "hours": "Use the public waterfront in daylight. Working quays follow harbour restrictions.",
+      "notice": "Watch boats from the public waterfront and keep clear of loading areas and harbour traffic.",
+      "feature": "The public waterfront looks across the berths and breakwater toward the town climbing the hillside."
+    },
+    "fee": "public",
+    "base": "west"
+  },
+  "gatklettur": {
+    "zh": {
+      "tagline": "从海岸步道望向玄武岩拱孔",
+      "hours": "白天沿海岸步道参观，根据保护区及天气公告安排。",
+      "notice": "在正式观景点取景，不跨越悬崖边缘或走上岩拱。",
+      "feature": "从正式观景处可透过岩孔看海浪，并比较拱体和相邻柱状岩壁。"
+    },
+    "en": {
+      "tagline": "A basalt sea arch viewed from the coastal path",
+      "hours": "Walk the coastal path in daylight, taking account of reserve notices and weather.",
+      "notice": "Use the formal viewpoint for photos and stay away from cliff edges and the arch itself.",
+      "feature": "The formal viewpoint frames the waves through the opening and shows the arch beside the jointed cliffs."
+    },
+    "fee": "public",
+    "base": "south"
+  }
+}

@@ -4,6 +4,7 @@ import { Link } from '@/i18n/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { NearbyCards } from '@/components/NearbyPlaces';
+import { nearbyVisitor } from '@/data/nearby-visitor';
 import editorial from '@/data/nearby-editorial.json';
 import { nearbyRatings, ratingsAccessedOn } from '@/data/nearby-ratings';
 import { copy, guideLocale, guideMetadata, mapUrl, nearbyPath, nearbyPlaces } from '@/data/nearby';
@@ -32,6 +33,8 @@ export default async function NearbyDetail({ params }: Props) {
   const info = place[locale];
   const expanded = editorial[place.slug as keyof typeof editorial];
   const details = expanded[locale];
+  const visitor = nearbyVisitor(place.slug as keyof typeof editorial, locale);
+  const labels = visitor.labels;
   const map = mapUrl(place);
   const accessQuery = encodeURIComponent(expanded.accessQuery);
   const arrival = place.slug === 'flatey'
@@ -46,7 +49,13 @@ export default async function NearbyDetail({ params }: Props) {
   const related = nearbyPlaces.filter((entry) => entry.slug !== slug && (
     entry.region === place.region || [entry.region, place.region].every((region) => region === 'park' || region === 'cave')
   ));
-  const facts = [[t.name, place.localName], [t.type, info.type], [t.area, info.area], [t.access, info.access]];
+  const facts = [
+    [t.name, place.localName],
+    [t.type, info.type],
+    [labels.country, labels.region],
+    [t.area, info.area],
+    [t.access, info.access],
+  ];
 
   return (
     <>
@@ -58,14 +67,28 @@ export default async function NearbyDetail({ params }: Props) {
           <div className="w-full max-w-6xl mx-auto px-5 pt-28 pb-10">
             <Link href={nearbyPath()} className="underline">{t.nearby}</Link>
             <h1 className="mt-3 text-4xl sm:text-6xl font-semibold">{info.name}</h1>
-            <p className="mt-4 max-w-2xl text-lg">{info.description}</p>
-            {ratingLabel && <p className="mt-3 font-semibold">{ratingLabel}</p>}
-            <p className="mt-3 max-w-2xl text-sm">{info.access}</p>
+            <p className="mt-4 max-w-2xl text-lg">{visitor.tagline}</p>
+            {ratingLabel
+              ? <p className="mt-3 font-semibold">{ratingLabel}</p>
+              : <a href="#visitor-reviews" className="mt-3 inline-block underline">{t.reviews}</a>}
+            <p className="mt-3 max-w-2xl text-sm">{visitor.hours}</p>
             <a href={map} className="inline-block mt-5 px-4 py-2 rounded-md bg-white text-nature-900 font-semibold">{t.map}</a>
           </div>
         </section>
         <div className="section-padding">
           <div className="max-w-4xl mx-auto space-y-9">
+            <section>
+              <h2 className="text-3xl font-semibold">{labels.discover}</h2>
+              <p className="mt-3">{info.description}</p>
+            </section>
+            <section>
+              <h2 className="text-3xl font-semibold">{t.visit}</h2>
+              <p className="mt-3">{info.visit}</p>
+            </section>
+            <section>
+              <h2 className="text-3xl font-semibold">{labels.features}</h2>
+              <p className="mt-3">{visitor.feature}</p>
+            </section>
             <section className="rounded-xl bg-[var(--bg-tertiary)] p-5 sm:p-7">
               <h2 className="text-2xl font-semibold">{locale === 'zh' ? `关于${info.name}` : `About ${info.name}`}</h2>
               <p className="mt-3">{info.management}</p>
@@ -87,19 +110,31 @@ export default async function NearbyDetail({ params }: Props) {
                     <dd>{value}</dd>
                   </div>
                 ))}
+                <div className="grid sm:grid-cols-[9rem_1fr] gap-1 p-4">
+                  <dt className="font-semibold">{labels.rating}</dt>
+                  <dd>{ratingLabel ?? <a href="#visitor-reviews" className="text-[var(--accent)] underline">{t.reviews}</a>}</dd>
+                </div>
               </dl>
             </section>
+            <div className="grid gap-4 sm:grid-cols-2">
+              <section className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5">
+                <h2 className="text-2xl font-semibold">{labels.hours}</h2>
+                <p className="mt-3">{visitor.hours}</p>
+                {visitor.hoursSource && <a href={visitor.hoursSource} className="mt-3 inline-block text-[var(--accent)] underline">{labels.operator}</a>}
+              </section>
+              <section className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5">
+                <h2 className="text-2xl font-semibold">{labels.fees}</h2>
+                <p className="mt-3">{visitor.fee}</p>
+                {visitor.feeSource && <a href={visitor.feeSource} className="mt-3 inline-block text-[var(--accent)] underline">{labels.feeSource}</a>}
+              </section>
+            </div>
             <section>
               <h2 className="text-3xl font-semibold">{t.transport}</h2>
               <p className="mt-3">{info.transport}</p>
               <a href={arrival} className="inline-block mt-3 text-[var(--accent)] underline">{arrivalLabel}</a>
             </section>
             <section>
-              <h2 className="text-3xl font-semibold">{t.visit}</h2>
-              <p className="mt-3">{info.visit}</p>
-            </section>
-            <section>
-              <h2 className="text-3xl font-semibold">{t.highlights}</h2>
+              <h2 className="text-3xl font-semibold">{labels.charm}</h2>
               <p className="mt-3">{details.background}</p>
               {['park', 'cave'].includes(place.region) && (
                 <a href="https://snaefellsjokull.is/en/hiking-trails-destinations/hiking-trails" className="mt-3 inline-block text-[var(--accent)] underline">
@@ -113,6 +148,10 @@ export default async function NearbyDetail({ params }: Props) {
                 <li>{locale === 'zh' ? '到访起点' : 'Start at'} · {info.area}</li>
                 <li>{details.walk}</li>
               </ol>
+            </section>
+            <section>
+              <h2 className="text-3xl font-semibold">{labels.notices}</h2>
+              <p className="mt-3">{visitor.notice}</p>
             </section>
             <section>
               <h2 className="text-3xl font-semibold">{t.photo}</h2>
@@ -129,7 +168,11 @@ export default async function NearbyDetail({ params }: Props) {
                 <p className="mt-3">{details.answer}</p>
               </details>
             </section>
-            <section className="rounded-xl bg-[var(--bg-tertiary)] p-5 sm:p-7">
+            <section>
+              <h2 className="text-3xl font-semibold">{labels.lodging}</h2>
+              <p className="mt-3">{visitor.lodging}</p>
+            </section>
+            <section id="visitor-reviews" className="scroll-mt-24 rounded-xl bg-[var(--bg-tertiary)] p-5 sm:p-7">
               <h2 className="text-2xl font-semibold">{t.reviews}</h2>
               {rating && (
                 <p className="mt-3">
