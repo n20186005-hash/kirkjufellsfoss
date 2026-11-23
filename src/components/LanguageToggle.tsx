@@ -10,7 +10,7 @@ const labels: Record<string, string> = {
   en: 'English',
 };
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ guideSlug }: { guideSlug?: string }) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -34,7 +34,12 @@ export default function LanguageToggle() {
     if (next === locale) return;
 
     startTransition(() => {
-      // @ts-ignore
+      if (guideSlug) {
+        router.replace({ pathname: '/nearby/[slug]', params: { slug: guideSlug } }, { locale: next });
+        return;
+      }
+      // Existing routes are passed through as supplied by next-intl.
+      // @ts-expect-error Dynamic routes are handled above.
       router.replace(pathname, { locale: next });
     });
   }

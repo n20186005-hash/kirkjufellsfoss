@@ -14,6 +14,8 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
 import Recommendations from '@/components/Recommendations';
+import NearbyPlaces from '@/components/NearbyPlaces';
+import { guideLocale } from '@/data/nearby';
 import Footer from '@/components/Footer';
 
 export default async function KirkjufellsfossPage({
@@ -26,7 +28,7 @@ export default async function KirkjufellsfossPage({
 
   return (
     <>
-      <Header />
+      <Header kirkjufellsfoss />
       <main>
         <Hero />
         <Intro />
@@ -42,6 +44,7 @@ export default async function KirkjufellsfossPage({
         <Reviews />
         <MapEmbed />
         <Recommendations />
+        <NearbyPlaces locale={guideLocale(locale)} />
       </main>
       <Footer />
     </>

@@ -102,8 +102,24 @@
     "walking": {
       "title": "By Car",
       "badge": "Recommended",
-      "desc": "From Reykjavik"
-    }
+      "desc": "From Reykjavík"
+    },
+    "metro": "By car",
+    "metroDesc": "Follow Route 1 north from Reykjavík, then Route 54 toward Grundarfjörður. Allow about 2.5–3 hours.",
+    "train": "Guided day tour",
+    "trainDesc": "Many Snæfellsnes day tours from Reykjavík include a stop at Kirkjufellsfoss. Check the itinerary when booking.",
+    "bus": "Regional buses",
+    "busDesc": "Check Strætó routes 58 and 82 for connections to Grundarfjörður. Arrange the onward trip from the town stop to the falls.",
+    "taxi": "From Reykjavík",
+    "taxiDesc": "The waterfall is about 180 km from the capital. Allow about 2.5–3 hours by car.",
+    "rideshare": "Waterfall parking",
+    "rideshareDesc": "Use the designated car park beside Route 54 and follow the posted payment instructions.",
+    "cycling": "Walking from the car park",
+    "cyclingDesc": "Follow the marked path from the car park to the waterfall viewpoints.",
+    "fromStation": "From Grundarfjörður",
+    "fromStationDesc": "The car park is about 2.5 km west of town on Route 54.",
+    "fromNyhavn": "Driving from Reykjavík",
+    "fromNyhavnDesc": "From Route 1, take Route 54 and follow the signs to Grundarfjörður and the waterfall."
   },
   "knowledge": {
     "title": "History & Geology",
