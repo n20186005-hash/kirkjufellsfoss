@@ -60,23 +60,34 @@ export default async function NearbyDetail({ params }: Props) {
   return (
     <>
       <Header kirkjufellsfoss guideSlug={slug} />
-      <main>
-        <section className="relative isolate min-h-[28rem] flex items-end text-white bg-nature-900">
+      <main className="nearby-guide">
+        <section className="relative isolate flex min-h-[min(42rem,82svh)] items-end overflow-hidden bg-nature-900 text-white">
           <img src={place.photo.path} alt={info.name} fetchPriority="high" className="absolute inset-0 -z-20 w-full h-full object-cover" />
-          <div className="absolute inset-0 -z-10 bg-gradient-to-t from-black/85 via-black/55 to-black/35" />
-          <div className="w-full max-w-6xl mx-auto px-5 pt-28 pb-10">
+          <div className="absolute inset-0 -z-10 bg-gradient-to-t from-nature-900 via-nature-900/65 to-nature-900/30" />
+          <div className="w-full max-w-6xl mx-auto px-4 sm:px-6 pt-28 pb-12 sm:pb-16">
             <Link href={nearbyPath()} className="underline">{t.nearby}</Link>
-            <h1 className="mt-3 text-4xl sm:text-6xl font-semibold">{info.name}</h1>
-            <p className="mt-4 max-w-2xl text-lg">{visitor.tagline}</p>
-            {ratingLabel
-              ? <p className="mt-3 font-semibold">{ratingLabel}</p>
-              : <a href="#visitor-reviews" className="mt-3 inline-block underline">{t.reviews}</a>}
-            <p className="mt-3 max-w-2xl text-sm">{visitor.hours}</p>
-            <a href={map} className="inline-block mt-5 px-4 py-2 rounded-md bg-white text-nature-900 font-semibold">{t.map}</a>
+            <h1 className="mt-3 font-display text-4xl sm:text-5xl lg:text-7xl leading-tight font-bold">{info.name}</h1>
+            <p className="mt-4 max-w-2xl text-lg sm:text-xl text-white/85">{visitor.tagline}</p>
+            <div className="mt-6 flex max-w-3xl flex-wrap items-start gap-3">
+              <a href="#visitor-reviews" className="rounded-full bg-white/15 px-4 py-2 text-sm font-medium backdrop-blur-sm hover:bg-white/25">
+                {ratingLabel && <span aria-hidden="true" className="mr-1.5 star-filled">★</span>}
+                {ratingLabel ?? t.reviews}
+              </a>
+              <a href="#guide-hours" className="rounded-2xl bg-white/15 px-4 py-2 text-sm backdrop-blur-sm hover:bg-white/25">{visitor.hours}</a>
+              <a href={map} className="rounded-full bg-white/15 px-4 py-2 text-sm font-medium backdrop-blur-sm hover:bg-white/25">{t.map}</a>
+            </div>
           </div>
         </section>
+        <nav aria-label={t.visit} className="border-b border-[var(--border-color)] bg-[var(--bg-tertiary)]">
+          <div className="mx-auto flex max-w-6xl flex-wrap gap-x-5 gap-y-2 px-4 py-4 text-sm font-medium text-[var(--accent)] sm:px-6">
+            <a href="#guide-facts" className="hover:underline">{t.facts}</a>
+            <a href="#guide-hours" className="hover:underline">{labels.hours}</a>
+            <a href="#guide-route" className="hover:underline">{t.walk}</a>
+            <a href="#guide-location" className="hover:underline">{t.location}</a>
+          </div>
+        </nav>
         <div className="section-padding">
-          <div className="max-w-4xl mx-auto space-y-9">
+          <div className="nearby-guide-content max-w-5xl mx-auto space-y-8 sm:space-y-12">
             <section>
               <h2 className="text-3xl font-semibold">{labels.discover}</h2>
               <p className="mt-3">{info.description}</p>
@@ -101,7 +112,7 @@ export default async function NearbyDetail({ params }: Props) {
                 )}
               </div>
             </section>
-            <section>
+            <section id="guide-facts">
               <h2 className="text-3xl font-semibold mb-5">{t.facts}</h2>
               <dl className="divide-y divide-[var(--border-color)] rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)]">
                 {facts.map(([label, value]) => (
@@ -117,7 +128,7 @@ export default async function NearbyDetail({ params }: Props) {
               </dl>
             </section>
             <div className="grid gap-4 sm:grid-cols-2">
-              <section className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5">
+              <section id="guide-hours" className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5">
                 <h2 className="text-2xl font-semibold">{labels.hours}</h2>
                 <p className="mt-3">{visitor.hours}</p>
                 {visitor.hoursSource && <a href={visitor.hoursSource} className="mt-3 inline-block text-[var(--accent)] underline">{labels.operator}</a>}
@@ -142,7 +153,7 @@ export default async function NearbyDetail({ params }: Props) {
                 </a>
               )}
             </section>
-            <section className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5 sm:p-7">
+            <section id="guide-route" className="rounded-xl border border-[var(--border-color)] bg-[var(--card-bg)] p-5 sm:p-7">
               <h2 className="text-2xl font-semibold">{t.walk}</h2>
               <ol className="mt-3 list-decimal space-y-2 pl-5 marker:font-semibold marker:text-[var(--accent)]">
                 <li>{locale === 'zh' ? '到访起点' : 'Start at'} · {info.area}</li>
@@ -186,7 +197,7 @@ export default async function NearbyDetail({ params }: Props) {
               <p className="mt-3">{t.reviewText}</p>
               <a href={map} className="mt-3 inline-block text-[var(--accent)] underline">{t.map}</a>
             </section>
-            <section>
+            <section id="guide-location">
               <h2 className="text-3xl font-semibold">{t.location}</h2>
               <p className="mt-3">{info.area}</p>
               <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2">

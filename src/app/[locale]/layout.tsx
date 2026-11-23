@@ -1,3 +1,4 @@
+import { localizedAlternates } from '@/i18n/site-metadata';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -18,27 +19,15 @@ export async function generateMetadata({
   // 加载 Kirkjufellsfoss 的翻译文件
   const messages = (await import(`@/messages/${locale}.json`)).default;
   
-  const baseUrl = 'https://kirkjufellsfoss.com'; // 请替换为实际域名
-
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
-
+  const alternates = localizedAlternates(locale);
   return {
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
-      },
-    },
+    alternates,
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
-      url: selfUrl,
+      url: alternates.canonical,
       siteName: "Kirkjufellsfoss",
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',

@@ -1,94 +1,46 @@
 'use client';
 
 import { useLocale } from 'next-intl';
-import { useRouter, usePathname } from '@/i18n/navigation';
-import { routing, type Locale } from '@/i18n/routing';
-import { useState, useRef, useEffect, useTransition } from 'react';
+import { Link, usePathname } from '@/i18n/navigation';
+import { routing } from '@/i18n/routing';
 
-const labels: Record<string, string> = {
-  zh: '中文',
-  en: 'English',
-};
+const labels = { zh: '中文', en: 'English' } as const;
 
 export default function LanguageToggle({ guideSlug }: { guideSlug?: string }) {
   const locale = useLocale();
-  const router = useRouter();
   const pathname = usePathname();
-  const [open, setOpen] = useState(false);
-  const [isPending, startTransition] = useTransition();
-  const ref = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    function handleClick(e: MouseEvent) {
-      if (ref.current && !ref.current.contains(e.target as Node)) {
-        setOpen(false);
-      }
-    }
-    document.addEventListener('mousedown', handleClick);
-    return () => document.removeEventListener('mousedown', handleClick);
-  }, []);
-
-  function switchLocale(next: Locale) {
-    setOpen(false);
-    
-    if (next === locale) return;
-
-    startTransition(() => {
-      if (guideSlug) {
-        router.replace({ pathname: '/nearby/[slug]', params: { slug: guideSlug } }, { locale: next });
-        return;
-      }
-      // Existing routes are passed through as supplied by next-intl.
-      // @ts-expect-error Dynamic routes are handled above.
-      router.replace(pathname, { locale: next });
-    });
-  }
+  const href = pathname === '/nearby/[slug]'
+    ? { pathname, params: { slug: guideSlug ?? '' } }
+    : pathname;
 
   return (
-    <div ref={ref} className="relative">
-      <button
-        onClick={() => setOpen(!open)}
-        className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-medium transition-colors"
-        style={{
-          background: 'var(--tag-bg)',
-          color: 'var(--tag-text)',
-        }}
-        aria-label="Switch language"
+    <details className="relative">
+      <summary
+        className="flex cursor-pointer list-none items-center gap-1.5 rounded-md bg-[var(--tag-bg)] px-3 py-1.5 text-sm font-medium text-[var(--tag-text)]"
+        aria-label={locale === 'zh' ? '切换语言' : 'Switch language'}
       >
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-          <circle cx="12" cy="12" r="10"/>
-          <line x1="2" y1="12" x2="22" y2="12"/>
-          <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+        <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+          <circle cx="12" cy="12" r="10" />
+          <path d="M2 12h20M12 2a15 15 0 0 1 0 20 15 15 0 0 1 0-20z" />
         </svg>
-        {labels[locale]}
-        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" className={`transition-transform ${open ? 'rotate-180' : ''}`}>
-          <polyline points="6 9 12 15 18 9"/>
-        </svg>
-      </button>
-
-      {open && (
-        <div
-          className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
-          style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
-        >
-          {routing.locales.map((loc) => (
-            <button
-              key={loc}
-              onClick={() => switchLocale(loc)}
-              className="w-full text-left px-4 py-2.5 text-sm transition-colors"
-              style={{
-                color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',
-                fontWeight: loc === locale ? 600 : 400,
-                background: 'transparent',
-              }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = 'var(--bg-tertiary)')}
-              onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
-            >
-              {labels[loc]}
-            </button>
-          ))}
-        </div>
-      )}
-    </div>
+        {labels[locale as keyof typeof labels]}
+      </summary>
+      <div className="absolute right-0 z-50 mt-2 w-36 overflow-hidden rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] shadow-lg">
+        {routing.locales.map((language) => (
+          <Link
+            key={language}
+            href={href}
+            locale={language}
+            hrefLang={language}
+            lang={language}
+            aria-current={language === locale ? 'true' : undefined}
+            className="block px-4 py-2.5 text-sm hover:bg-[var(--bg-tertiary)] aria-[current=true]:font-semibold aria-[current=true]:text-[var(--accent)]"
+            onClick={(event) => event.currentTarget.closest('details')?.removeAttribute('open')}
+          >
+            {labels[language]}
+          </Link>
+        ))}
+      </div>
+    </details>
   );
 }

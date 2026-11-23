@@ -1,3 +1,5 @@
+import Header from '@/components/Header';
+import { localizedAlternates } from '@/i18n/site-metadata';
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
@@ -7,24 +9,8 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
-
-  return {
-    alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
-  };
+  const { locale } = await params;
+  return { alternates: localizedAlternates(locale, '/cookie-settings') };
 }
 
 export default async function CookiePage({
@@ -34,5 +20,5 @@ export default async function CookiePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <CookieSettingsClient />;
+  return <><Header solid kirkjufellsfoss /><CookieSettingsClient /></>;
 }

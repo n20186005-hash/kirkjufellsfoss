@@ -6,8 +6,8 @@
   "hero": {
     "title": "Kirkjufellsfoss",
     "subtitle": "Photographic Hotspot with Iconic Waterfall & Distinctly Shaped Mountain, Iceland",
-    "rating": "4.6(13,430)",
-    "reviewCount": "13,430 real reviews",
+    "rating": "4.6",
+    "reviewCount": "7,679 reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
     "bgImage": "/gallery/Kirkjufellsfoss (1).jpg",
@@ -57,7 +57,7 @@
     "city": "City / Location",
     "cityValue": "Grundarfjörður, Snæfellsnes Peninsula",
     "googleRating": "Google Rating",
-    "ratingValue": "4.6 (13,430 real reviews)",
+    "ratingValue": "4.6 (7,679 reviews)",
     "address": "Address",
     "addressValue": "WMGQ+FFJ, 351 Grundarfjörður, Iceland"
   },

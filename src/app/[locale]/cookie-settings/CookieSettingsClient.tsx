@@ -42,7 +42,7 @@ function CookieToggle({
       <button
         onClick={locked ? undefined : onToggle}
         className={`cookie-toggle flex-shrink-0 ${enabled ? 'active' : ''} ${locked ? 'opacity-60 cursor-not-allowed' : ''}`}
-        aria-label={`Toggle ${label}`}
+        aria-label={label}
         disabled={locked}
       />
     </div>
@@ -53,7 +53,7 @@ export default function CookieSettingsClient() {
   const t = useTranslations('cookieSettings');
   const ht = useTranslations('header');
   const locale = useLocale();
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = locale === 'en' ? '/en' : '/';
 
   const [analytics, setAnalytics] = useState(false);
   const [preferences, setPreferences] = useState(false);
